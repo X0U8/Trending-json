@@ -2,7 +2,7 @@ name: Update Trending Music JSON
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,19 +22,14 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          echo "Fetching trending music..."
-
           API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=$YOUTUBE_API_KEY"
 
           RESPONSE=$(curl -s "$API_URL")
 
-          echo "Generating JSON..."
-
-          node <<'EOF'
+          node <<EOF
           const fs = require('fs');
 
-          const raw = process.env.RESPONSE || fs.readFileSync(0, 'utf8');
-          const data = JSON.parse(raw);
+          const data = JSON.parse(\`$RESPONSE\`);
 
           const items = data.items.map(v => ({
             id: v.id,
@@ -49,16 +44,13 @@ jobs:
             updatedAt: new Date().toISOString(),
             region: "US",
             category: "Music",
-            source: "YouTube Data API v3",
             count: items.length,
             items
           };
 
           fs.writeFileSync("index.html", JSON.stringify(output, null, 2));
-          console.log("index.html updated.");
+          console.log("index.html updated");
           EOF
-        env:
-          RESPONSE: ${{ steps.fetch.outputs.response }}
 
       - name: Commit & Push
         run: |
@@ -68,7 +60,7 @@ jobs:
           git add index.html
 
           if git diff --cached --quiet; then
-            echo "No changes to commit"
+            echo "No changes"
           else
             git commit -m "Update trending music JSON"
             git push
