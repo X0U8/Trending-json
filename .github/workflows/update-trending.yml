@@ -1,8 +1,8 @@
-name: Update Trending
+name: Update Trending Music JSON
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"   # every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -10,23 +10,66 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      - run: npm install
-
-      - name: Run updater
-        run: node app.js
+      - name: Fetch YouTube Trending Music (US)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          echo "Fetching trending music..."
 
-      - name: Commit updated data
+          API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=$YOUTUBE_API_KEY"
+
+          RESPONSE=$(curl -s "$API_URL")
+
+          echo "Generating JSON..."
+
+          node <<'EOF'
+          const fs = require('fs');
+
+          const raw = process.env.RESPONSE || fs.readFileSync(0, 'utf8');
+          const data = JSON.parse(raw);
+
+          const items = data.items.map(v => ({
+            id: v.id,
+            title: v.snippet.title,
+            channelTitle: v.snippet.channelTitle,
+            thumbnail: v.snippet.thumbnails.high.url,
+            duration: v.contentDetails.duration,
+            publishedAt: v.snippet.publishedAt
+          }));
+
+          const output = {
+            updatedAt: new Date().toISOString(),
+            region: "US",
+            category: "Music",
+            source: "YouTube Data API v3",
+            count: items.length,
+            items
+          };
+
+          fs.writeFileSync("index.html", JSON.stringify(output, null, 2));
+          console.log("index.html updated.");
+          EOF
+        env:
+          RESPONSE: ${{ steps.fetch.outputs.response }}
+
+      - name: Commit & Push
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add trending.json
-          git commit -m "update trending" || exit 0
-          git push
+
+          git add index.html
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update trending music JSON"
+            git push
+          fi
