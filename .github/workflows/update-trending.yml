@@ -13,23 +13,33 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Fetch YouTube Trending Music (US)
-        env:
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - name: Fetch YouTube trending data
         run: |
-          API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=$YOUTUBE_API_KEY"
-
+          API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=${{ secrets.YOUTUBE_API_KEY }}"
+          
           RESPONSE=$(curl -s "$API_URL")
+          echo "$RESPONSE" > response.json
 
-          node <<EOF
+      - name: Generate index.html JSON
+        run: |
+          node <<'EOF'
           const fs = require('fs');
 
-          const data = JSON.parse(\`$RESPONSE\`);
+          const raw = fs.readFileSync('response.json', 'utf8');
+          let data;
+
+          try {
+            data = JSON.parse(raw);
+          } catch {
+            console.error("Invalid JSON from API");
+            process.exit(1);
+          }
+
+          if (!data.items) {
+            console.error("YouTube API Error:");
+            console.error(JSON.stringify(data, null, 2));
+            process.exit(1);
+          }
 
           const items = data.items.map(v => ({
             id: v.id,
@@ -48,20 +58,21 @@ jobs:
             items
           };
 
-          fs.writeFileSync("index.html", JSON.stringify(output, null, 2));
+          fs.writeFileSync('index.html', JSON.stringify(output, null, 2));
           console.log("index.html updated");
           EOF
 
-      - name: Commit & Push
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.email "github-actions@github.com"
 
           git add index.html
 
           if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "Update trending music JSON"
-            git push
+            echo "No changes to commit"
+            exit 0
           fi
+
+          git commit -m "Update trending music data"
+          git push
