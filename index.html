@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Trending Cache</title>
+</head>
+<body>
+  <pre id="json">Loading...</pre>
+
+  <script>
+    fetch('./trending.json')
+      .then(r => r.json())
+      .then(d => {
+        document.getElementById('json').textContent =
+          JSON.stringify(d, null, 2);
+      })
+      .catch(() => {
+        document.getElementById('json').textContent = 'Failed to load data';
+      });
+  </script>
+</body>
+</html>
