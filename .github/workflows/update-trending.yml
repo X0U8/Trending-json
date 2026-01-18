@@ -14,11 +14,27 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Fetch YouTube trending data
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=${{ secrets.YOUTUBE_API_KEY }}"
+          if [ -z "$YOUTUBE_API_KEY" ]; then
+            echo "ERROR: API key is not set"
+            exit 1
+          fi
           
+          API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=${YOUTUBE_API_KEY}"
+          
+          echo "Fetching trending music videos..."
           RESPONSE=$(curl -s "$API_URL")
           echo "$RESPONSE" > response.json
+          
+          if echo "$RESPONSE" | grep -q '"error"'; then
+            echo "API Error:"
+            cat response.json
+            exit 1
+          fi
+          
+          echo "✓ Successfully fetched data"
 
       - name: Generate index.html JSON
         run: |
@@ -59,7 +75,7 @@ jobs:
           };
 
           fs.writeFileSync('index.html', JSON.stringify(output, null, 2));
-          console.log("index.html updated");
+          console.log("✓ index.html updated with", items.length, "videos");
           EOF
 
       - name: Commit and push changes
