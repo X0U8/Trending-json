@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write  # Add this to grant write access
+  contents: write  
 
 jobs:
   update:
