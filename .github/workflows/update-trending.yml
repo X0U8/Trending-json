@@ -2,7 +2,7 @@ name: Update Trending Music JSON
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -26,19 +26,27 @@ jobs:
             echo "ERROR: API key is not set"
             exit 1
           fi
-          
-          API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=US&videoCategoryId=10&maxResults=25&key=${YOUTUBE_API_KEY}"
-          
-          echo "Fetching trending music videos..."
-          RESPONSE=$(curl -s "$API_URL")
-          echo "$RESPONSE" > response.json
-          
-          if echo "$RESPONSE" | grep -q '"error"'; then
-            echo "API Error:"
-            cat response.json
-            exit 1
-          fi
-          
+
+          COUNTRIES="US IN GB CA AU DE FR JP KR BR MX ID PH TH VN PK BD NG ZA SA"
+
+          ALL_ITEMS="[]"
+
+          for COUNTRY in $COUNTRIES; do
+            echo "Fetching $COUNTRY..."
+
+            API_URL="https://www.googleapis.com/youtube/v3/videos?part=snippet,contentDetails&chart=mostPopular&regionCode=$COUNTRY&videoCategoryId=10&maxResults=20&key=${YOUTUBE_API_KEY}"
+
+            RESPONSE=$(curl -s "$API_URL")
+
+            if echo "$RESPONSE" | grep -q '"error"'; then
+              echo "API Error for $COUNTRY"
+              echo "$RESPONSE"
+              exit 1
+            fi
+
+            echo "$RESPONSE" > response_$COUNTRY.json
+          done
+
           echo "✓ Successfully fetched data"
 
       - name: Generate index.html JSON
@@ -46,54 +54,55 @@ jobs:
           node <<'EOF'
           const fs = require('fs');
 
-          const raw = fs.readFileSync('response.json', 'utf8');
-          let data;
+          const countries = [
+            "US","IN","GB","CA","AU","DE","FR","JP","KR","BR",
+            "MX","ID","PH","TH","VN","PK","BD","NG","ZA","SA"
+          ];
 
-          try {
-            data = JSON.parse(raw);
-          } catch {
-            console.error("Invalid JSON from API");
-            process.exit(1);
+          let allItems = [];
+
+          for (const c of countries) {
+            const raw = fs.readFileSync(`response_${c}.json`, 'utf8');
+            const data = JSON.parse(raw);
+
+            if (!data.items) continue;
+
+            const items = data.items.map(v => ({
+              id: v.id,
+              title: v.snippet.title,
+              channelTitle: v.snippet.channelTitle,
+              thumbnail: v.snippet.thumbnails.high.url,
+              duration: v.contentDetails.duration,
+              publishedAt: v.snippet.publishedAt,
+              region: c
+            }));
+
+            allItems.push(...items);
           }
-
-          if (!data.items) {
-            console.error("YouTube API Error:");
-            console.error(JSON.stringify(data, null, 2));
-            process.exit(1);
-          }
-
-          const items = data.items.map(v => ({
-            id: v.id,
-            title: v.snippet.title,
-            channelTitle: v.snippet.channelTitle,
-            thumbnail: v.snippet.thumbnails.high.url,
-            duration: v.contentDetails.duration,
-            publishedAt: v.snippet.publishedAt
-          }));
 
           const output = {
             updatedAt: new Date().toISOString(),
-            region: "US",
             category: "Music",
-            count: items.length,
-            items
+            countries: countries.length,
+            count: allItems.length,
+            items: allItems
           };
 
           fs.writeFileSync('index.html', JSON.stringify(output, null, 2));
-          console.log("✓ index.html updated with", items.length, "videos");
+          console.log("index.html updated with", allItems.length, "videos");
           EOF
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
           git add index.html
-          
+
           if git diff --cached --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          
+
           git commit -m "Update trending music data"
           git push
