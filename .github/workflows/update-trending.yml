@@ -49,7 +49,7 @@ jobs:
 
           echo "✓ Successfully fetched data"
 
-      - name: Generate index.html JSON
+      - name: Generate data.json
         run: |
           node <<'EOF'
           const fs = require('fs');
@@ -88,8 +88,8 @@ jobs:
             items: allItems
           };
 
-          fs.writeFileSync('index.html', JSON.stringify(output, null, 2));
-          console.log("index.html updated with", allItems.length, "videos");
+          fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
+          console.log("data.json updated with", allItems.length, "videos");
           EOF
 
       - name: Commit and push changes
@@ -97,7 +97,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add index.html
+          git add data.json
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
