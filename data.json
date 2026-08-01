@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T13:45:18.899Z",
+  "updatedAt": "2026-08-01T02:04:07.727Z",
   "category": "Music",
   "countries": 20,
   "count": 400,
@@ -11,6 +11,15 @@
       "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
       "duration": "PT3M11S",
       "publishedAt": "2026-07-24T03:59:06Z",
+      "region": "US"
+    },
+    {
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
       "region": "US"
     },
     {
@@ -32,6 +41,15 @@
       "region": "US"
     },
     {
+      "id": "MKl7uciEUE4",
+      "title": "Saucy Santana - Quiet on the Creek [Official Music Video]",
+      "channelTitle": "Saucy Santana",
+      "thumbnail": "https://i.ytimg.com/vi/MKl7uciEUE4/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-24T21:00:06Z",
+      "region": "US"
+    },
+    {
       "id": "HOqxmOXrZnY",
       "title": "Been By Now",
       "channelTitle": "Morgan Wallen - Topic",
@@ -50,30 +68,66 @@
       "region": "US"
     },
     {
-      "id": "MKl7uciEUE4",
-      "title": "Saucy Santana - Quiet on the Creek [Official Music Video]",
-      "channelTitle": "Saucy Santana",
-      "thumbnail": "https://i.ytimg.com/vi/MKl7uciEUE4/hqdefault.jpg",
-      "duration": "PT3M20S",
-      "publishedAt": "2026-07-24T21:00:06Z",
+      "id": "d6tMnbLofJw",
+      "title": "Hustle",
+      "channelTitle": "Rod Wave - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/d6tMnbLofJw/hqdefault.jpg",
+      "duration": "PT2M20S",
+      "publishedAt": "2026-07-31T04:01:32Z",
       "region": "US"
     },
     {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
+      "id": "tdS3ijuqxW4",
+      "title": "Todo Lo Fue",
+      "channelTitle": "Lenin Ramirez - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/tdS3ijuqxW4/hqdefault.jpg",
+      "duration": "PT3M13S",
+      "publishedAt": "2026-07-29T22:07:16Z",
       "region": "US"
     },
     {
-      "id": "OTImlQYTCag",
-      "title": "MATADORA",
-      "channelTitle": "KAROL G - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/OTImlQYTCag/hqdefault.jpg",
-      "duration": "PT2M25S",
-      "publishedAt": "2026-07-25T03:00:01Z",
+      "id": "vZFmPK9CY8k",
+      "title": "Se Fue",
+      "channelTitle": "El Trono De Mexico - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/vZFmPK9CY8k/hqdefault.jpg",
+      "duration": "PT2M52S",
+      "publishedAt": "2026-07-29T20:20:13Z",
+      "region": "US"
+    },
+    {
+      "id": "XGKJxb2b3ZI",
+      "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]",
+      "channelTitle": "bennyblancoVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/XGKJxb2b3ZI/hqdefault.jpg",
+      "duration": "PT3M10S",
+      "publishedAt": "2026-07-31T04:00:32Z",
+      "region": "US"
+    },
+    {
+      "id": "WAGSleU6mJA",
+      "title": "KAROL G - MATADORA (Visualizer)",
+      "channelTitle": "KarolGVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/WAGSleU6mJA/hqdefault.jpg",
+      "duration": "PT2M26S",
+      "publishedAt": "2026-07-25T03:00:21Z",
+      "region": "US"
+    },
+    {
+      "id": "b-9gJ1Gc8rE",
+      "title": "Ariana Grande - kiss me (official visualizer)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/b-9gJ1Gc8rE/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-31T04:00:07Z",
+      "region": "US"
+    },
+    {
+      "id": "_SPsjENFqbc",
+      "title": "like i do",
+      "channelTitle": "Ariana Grande - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/_SPsjENFqbc/hqdefault.jpg",
+      "duration": "PT2M48S",
+      "publishedAt": "2026-07-31T04:02:32Z",
       "region": "US"
     },
     {
@@ -95,93 +149,39 @@
       "region": "US"
     },
     {
-      "id": "0ijm2Xui5N8",
-      "title": "ADÉLA - Ain't In LA",
-      "channelTitle": "AdelaMusicVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/0ijm2Xui5N8/hqdefault.jpg",
-      "duration": "PT3M40S",
-      "publishedAt": "2026-07-23T17:00:06Z",
+      "id": "G6VHDpCtvLU",
+      "title": "VonOff1700 - All Is (Official Video)",
+      "channelTitle": "VonOff1700",
+      "thumbnail": "https://i.ytimg.com/vi/G6VHDpCtvLU/hqdefault.jpg",
+      "duration": "PT2M22S",
+      "publishedAt": "2026-07-29T19:00:38Z",
       "region": "US"
     },
     {
-      "id": "oe-bhvLJNjc",
-      "title": "Foreigner - I Want To Know What Love Is (Live From Ellis Island) (Official Music Video)",
-      "channelTitle": "ForeignerVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/oe-bhvLJNjc/hqdefault.jpg",
-      "duration": "PT6M15S",
-      "publishedAt": "2026-07-24T04:00:17Z",
+      "id": "VoFFuF4zSjY",
+      "title": "Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli",
+      "channelTitle": "daydream.",
+      "thumbnail": "https://i.ytimg.com/vi/VoFFuF4zSjY/hqdefault.jpg",
+      "duration": "PT3M19S",
+      "publishedAt": "2026-07-28T16:30:01Z",
       "region": "US"
     },
     {
-      "id": "nw0SuwMqlTM",
-      "title": "Fat Joe x Jadakiss x Stove God Cooks - The Aroma [Official Video]",
-      "channelTitle": "Fat Joe",
-      "thumbnail": "https://i.ytimg.com/vi/nw0SuwMqlTM/hqdefault.jpg",
-      "duration": "PT3M42S",
-      "publishedAt": "2026-07-25T19:33:06Z",
+      "id": "hDVgQ-ScvUM",
+      "title": "Todo De Ti",
+      "channelTitle": "Rauw Alejandro - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/hDVgQ-ScvUM/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-30T00:00:05Z",
       "region": "US"
     },
     {
-      "id": "vZFmPK9CY8k",
-      "title": "Se Fue",
-      "channelTitle": "El Trono De Mexico - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vZFmPK9CY8k/hqdefault.jpg",
-      "duration": "PT2M52S",
-      "publishedAt": "2026-07-29T20:20:13Z",
-      "region": "US"
-    },
-    {
-      "id": "5bR_ZcXMzP4",
-      "title": "Fuerza Regida, Manuel Turizo - UNA CERVEZA (Letra/Lyrics) | \"¿qué estás haciendo?\"",
-      "channelTitle": "jostland.",
-      "thumbnail": "https://i.ytimg.com/vi/5bR_ZcXMzP4/hqdefault.jpg",
-      "duration": "PT4M40S",
-      "publishedAt": "2026-07-22T17:34:50Z",
-      "region": "US"
-    },
-    {
-      "id": "-KdvidY4iYs",
-      "title": "Rick Ross, YFN Lucci - Ring Around The Rolls (Official Music Video)",
-      "channelTitle": "RickRossVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/-KdvidY4iYs/hqdefault.jpg",
-      "duration": "PT3M44S",
-      "publishedAt": "2026-07-21T23:00:06Z",
-      "region": "US"
-    },
-    {
-      "id": "GEk4jHwfFTA",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/GEk4jHwfFTA/hqdefault.jpg",
-      "duration": "PT3M27S",
-      "publishedAt": "2026-07-19T04:00:02Z",
-      "region": "US"
-    },
-    {
-      "id": "ypqZr2jSRmE",
-      "title": "Ganas de Volver Amar",
-      "channelTitle": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ypqZr2jSRmE/hqdefault.jpg",
-      "duration": "PT3M30S",
-      "publishedAt": "2026-07-17T16:17:05Z",
-      "region": "US"
-    },
-    {
-      "id": "9ji4JnBsS-Y",
-      "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
-      "channelTitle": "Electric Callboy",
-      "thumbnail": "https://i.ytimg.com/vi/9ji4JnBsS-Y/hqdefault.jpg",
-      "duration": "PT2M43S",
-      "publishedAt": "2026-07-28T14:00:06Z",
-      "region": "US"
-    },
-    {
-      "id": "rEehKt_krP0",
-      "title": "Did You Hear About Them (From \"Descendants: Wicked Wonderland\")",
-      "channelTitle": "DisneyMusicVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/rEehKt_krP0/hqdefault.jpg",
-      "duration": "PT3M9S",
-      "publishedAt": "2026-07-17T04:07:39Z",
+      "id": "OrFojJ6vj7k",
+      "title": "Polvo Rosita",
+      "channelTitle": "Lenin Ramirez - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/OrFojJ6vj7k/hqdefault.jpg",
+      "duration": "PT2M40S",
+      "publishedAt": "2026-07-29T22:02:35Z",
       "region": "US"
     },
     {
@@ -212,21 +212,21 @@
       "region": "IN"
     },
     {
-      "id": "6rF-r_rYo9o",
-      "title": "#Video ~ दिल्ली के पुलिस ~ #Raushan Rohi & #Srishti Bharti ~ आवाज़ उठेगी तो इंसाफ मिलेगा ~ New Song",
-      "channelTitle": "Raushan Rohi Entertainment",
-      "thumbnail": "https://i.ytimg.com/vi/6rF-r_rYo9o/hqdefault.jpg",
-      "duration": "PT3M40S",
-      "publishedAt": "2026-07-23T01:04:35Z",
-      "region": "IN"
-    },
-    {
       "id": "7VsejGzcJmM",
       "title": "Alaakaa Loova Lyrical (Tamil) | OM | Dhanush | Mammootty | Sai Pallavi | Sreeleela | Rajkumar | Sai",
       "channelTitle": "Divo Music",
       "thumbnail": "https://i.ytimg.com/vi/7VsejGzcJmM/hqdefault.jpg",
       "duration": "PT3M37S",
       "publishedAt": "2026-07-28T13:29:06Z",
+      "region": "IN"
+    },
+    {
+      "id": "6rF-r_rYo9o",
+      "title": "#Video ~ दिल्ली के पुलिस ~ #Raushan Rohi & #Srishti Bharti ~ आवाज़ उठेगी तो इंसाफ मिलेगा ~ New Song",
+      "channelTitle": "Raushan Rohi Entertainment",
+      "thumbnail": "https://i.ytimg.com/vi/6rF-r_rYo9o/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-23T01:04:35Z",
       "region": "IN"
     },
     {
@@ -248,15 +248,6 @@
       "region": "IN"
     },
     {
-      "id": "mry9tOVn_fI",
-      "title": "Milti Hai Zindagi",
-      "channelTitle": "Binod - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/mry9tOVn_fI/hqdefault.jpg",
-      "duration": "PT5M16S",
-      "publishedAt": "2026-07-24T10:02:11Z",
-      "region": "IN"
-    },
-    {
       "id": "CLbmH6SJGLQ",
       "title": "#Video | नाचS ए बम | #Khesari Lal Yadav | Nach Ae Bam | Karishma Kakkar | New Bolbam Song 2026",
       "channelTitle": "GMJ - Global Music Junction - Bhojpuri",
@@ -272,6 +263,15 @@
       "thumbnail": "https://i.ytimg.com/vi/hjlE0fIJBcU/hqdefault.jpg",
       "duration": "PT3M11S",
       "publishedAt": "2026-07-26T10:30:12Z",
+      "region": "IN"
+    },
+    {
+      "id": "mry9tOVn_fI",
+      "title": "Milti Hai Zindagi",
+      "channelTitle": "Binod - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/mry9tOVn_fI/hqdefault.jpg",
+      "duration": "PT5M16S",
+      "publishedAt": "2026-07-24T10:02:11Z",
       "region": "IN"
     },
     {
@@ -311,15 +311,6 @@
       "region": "IN"
     },
     {
-      "id": "11i8OwHI_No",
-      "title": "रोटिया बेलही के परी | Dance Video | Srishti Bharti | Rotiya Belahi Ke Pari | New Bhojpuri Video 2026",
-      "channelTitle": "MTR Dance Factory",
-      "thumbnail": "https://i.ytimg.com/vi/11i8OwHI_No/hqdefault.jpg",
-      "duration": "PT3M40S",
-      "publishedAt": "2026-07-16T11:00:08Z",
-      "region": "IN"
-    },
-    {
       "id": "JCnJqPeUEdc",
       "title": "Full Video: VaareVaa VaareVaa | Lenin | Akhil Akkineni,Bhagyashri B | Thaman S | Murali Kishor A",
       "channelTitle": "T-Series Telugu",
@@ -329,12 +320,12 @@
       "region": "IN"
     },
     {
-      "id": "CxN85kBZiI8",
-      "title": "Madhosh | Toxic (Hindi) | Rocking Star Yash, Tara Sutaria | Tanishk, Arslan, Faheem, Siddharth, Syed",
-      "channelTitle": "Zee Music Company",
-      "thumbnail": "https://i.ytimg.com/vi/CxN85kBZiI8/hqdefault.jpg",
-      "duration": "PT3M15S",
-      "publishedAt": "2026-07-21T06:03:04Z",
+      "id": "11i8OwHI_No",
+      "title": "रोटिया बेलही के परी | Dance Video | Srishti Bharti | Rotiya Belahi Ke Pari | New Bhojpuri Video 2026",
+      "channelTitle": "MTR Dance Factory",
+      "thumbnail": "https://i.ytimg.com/vi/11i8OwHI_No/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-16T11:00:08Z",
       "region": "IN"
     },
     {
@@ -347,12 +338,12 @@
       "region": "IN"
     },
     {
-      "id": "undhkaMMenU",
-      "title": "Sambavakaari Video Song | Gatta Kusthi 2 | Vishnu Vishal, Aishwarya Lekshmi | Sean Roldan",
-      "channelTitle": "Sony Music South",
-      "thumbnail": "https://i.ytimg.com/vi/undhkaMMenU/hqdefault.jpg",
-      "duration": "PT4M5S",
-      "publishedAt": "2026-07-12T10:30:35Z",
+      "id": "CxN85kBZiI8",
+      "title": "Madhosh | Toxic (Hindi) | Rocking Star Yash, Tara Sutaria | Tanishk, Arslan, Faheem, Siddharth, Syed",
+      "channelTitle": "Zee Music Company",
+      "thumbnail": "https://i.ytimg.com/vi/CxN85kBZiI8/hqdefault.jpg",
+      "duration": "PT3M15S",
+      "publishedAt": "2026-07-21T06:03:04Z",
       "region": "IN"
     },
     {
@@ -365,12 +356,30 @@
       "region": "IN"
     },
     {
+      "id": "9ybP48HF2Ho",
+      "title": "Woh Tassavur Ka Aalam | Woh Pyaar Pyaar Pyaar | Udit  & Alka | Aitraaz | 90s Hits Hindi Song",
+      "channelTitle": "90s Love Anthem",
+      "thumbnail": "https://i.ytimg.com/vi/9ybP48HF2Ho/hqdefault.jpg",
+      "duration": "PT4M22S",
+      "publishedAt": "2026-07-27T09:00:16Z",
+      "region": "IN"
+    },
+    {
       "id": "m7k9UMcHbr0",
       "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
       "channelTitle": "HYBE LABELS",
       "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
       "duration": "PT3M11S",
       "publishedAt": "2026-07-24T03:59:06Z",
+      "region": "GB"
+    },
+    {
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
       "region": "GB"
     },
     {
@@ -392,48 +401,12 @@
       "region": "GB"
     },
     {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
-      "region": "GB"
-    },
-    {
       "id": "GpB18MIw3y0",
       "title": "Sam Fender & Lewis Capaldi - Rein Me In (Live at American Express Presents BST Hyde Park)",
       "channelTitle": "Lewis Capaldi",
       "thumbnail": "https://i.ytimg.com/vi/GpB18MIw3y0/hqdefault.jpg",
       "duration": "PT6M1S",
       "publishedAt": "2026-07-28T14:00:06Z",
-      "region": "GB"
-    },
-    {
-      "id": "9ji4JnBsS-Y",
-      "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
-      "channelTitle": "Electric Callboy",
-      "thumbnail": "https://i.ytimg.com/vi/9ji4JnBsS-Y/hqdefault.jpg",
-      "duration": "PT2M43S",
-      "publishedAt": "2026-07-28T14:00:06Z",
-      "region": "GB"
-    },
-    {
-      "id": "UKMLprkoG_Q",
-      "title": "Shawn Mendes - Treat You Better (Lyrics)",
-      "channelTitle": "Unique Vibes",
-      "thumbnail": "https://i.ytimg.com/vi/UKMLprkoG_Q/hqdefault.jpg",
-      "duration": "PT3M20S",
-      "publishedAt": "2026-07-27T18:49:16Z",
-      "region": "GB"
-    },
-    {
-      "id": "0ijm2Xui5N8",
-      "title": "ADÉLA - Ain't In LA",
-      "channelTitle": "AdelaMusicVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/0ijm2Xui5N8/hqdefault.jpg",
-      "duration": "PT3M40S",
-      "publishedAt": "2026-07-23T17:00:06Z",
       "region": "GB"
     },
     {
@@ -446,57 +419,48 @@
       "region": "GB"
     },
     {
+      "id": "UKMLprkoG_Q",
+      "title": "Shawn Mendes - Treat You Better (Lyrics)",
+      "channelTitle": "Unique Vibes",
+      "thumbnail": "https://i.ytimg.com/vi/UKMLprkoG_Q/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-27T18:49:16Z",
+      "region": "GB"
+    },
+    {
+      "id": "9ji4JnBsS-Y",
+      "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
+      "channelTitle": "Electric Callboy",
+      "thumbnail": "https://i.ytimg.com/vi/9ji4JnBsS-Y/hqdefault.jpg",
+      "duration": "PT2M43S",
+      "publishedAt": "2026-07-28T14:00:06Z",
+      "region": "GB"
+    },
+    {
+      "id": "0ijm2Xui5N8",
+      "title": "ADÉLA - Ain't In LA",
+      "channelTitle": "AdelaMusicVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/0ijm2Xui5N8/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-23T17:00:06Z",
+      "region": "GB"
+    },
+    {
+      "id": "b-9gJ1Gc8rE",
+      "title": "Ariana Grande - kiss me (official visualizer)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/b-9gJ1Gc8rE/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-31T04:00:07Z",
+      "region": "GB"
+    },
+    {
       "id": "_IT83Y_HcAw",
       "title": "JENNIE - Less than a Lover (Official Video)",
       "channelTitle": "JennieRubyJaneVEVO",
       "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
       "duration": "PT3M39S",
       "publishedAt": "2026-07-24T04:00:05Z",
-      "region": "GB"
-    },
-    {
-      "id": "xYHGE93zeQY",
-      "title": "DHURATA DORA ft GJESTI - GASOLINA (Official Video)",
-      "channelTitle": "Dhurata Dora",
-      "thumbnail": "https://i.ytimg.com/vi/xYHGE93zeQY/hqdefault.jpg",
-      "duration": "PT2M45S",
-      "publishedAt": "2026-07-28T16:00:06Z",
-      "region": "GB"
-    },
-    {
-      "id": "zgSGDQFm8AU",
-      "title": "Nines - Unreleased Intro (Official Audio)",
-      "channelTitle": "Nines",
-      "thumbnail": "https://i.ytimg.com/vi/zgSGDQFm8AU/hqdefault.jpg",
-      "duration": "PT2M8S",
-      "publishedAt": "2026-07-23T23:00:35Z",
-      "region": "GB"
-    },
-    {
-      "id": "BKkEcSa5iHk",
-      "title": "D-BLOCK EUROPE (Young Adz) TURN OFF THE LIGHT ",
-      "channelTitle": "D Block Europe TV",
-      "thumbnail": "https://i.ytimg.com/vi/BKkEcSa5iHk/hqdefault.jpg",
-      "duration": "PT3M51S",
-      "publishedAt": "2026-07-16T18:00:14Z",
-      "region": "GB"
-    },
-    {
-      "id": "UonPddf8O3M",
-      "title": "Florin Cercel - Bate vantule mai tare (Official Video) | Manele TV",
-      "channelTitle": "Manele TV",
-      "thumbnail": "https://i.ytimg.com/vi/UonPddf8O3M/hqdefault.jpg",
-      "duration": "PT3M21S",
-      "publishedAt": "2026-07-25T09:00:06Z",
-      "region": "GB"
-    },
-    {
-      "id": "PXxbEfhtDiM",
-      "title": "Lil Baby - Dead Fresh (Official Video)",
-      "channelTitle": "LilBabyVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/PXxbEfhtDiM/hqdefault.jpg",
-      "duration": "PT2M50S",
-      "publishedAt": "2026-07-20T22:00:06Z",
       "region": "GB"
     },
     {
@@ -509,12 +473,48 @@
       "region": "GB"
     },
     {
-      "id": "6_auu8IAXcI",
-      "title": "BOOTER BEE - SALAH FT 36 [Official Music Video]",
-      "channelTitle": "Booter Bee",
-      "thumbnail": "https://i.ytimg.com/vi/6_auu8IAXcI/hqdefault.jpg",
-      "duration": "PT3M24S",
-      "publishedAt": "2026-07-23T18:00:06Z",
+      "id": "xYHGE93zeQY",
+      "title": "DHURATA DORA ft GJESTI - GASOLINA (Official Video)",
+      "channelTitle": "Dhurata Dora",
+      "thumbnail": "https://i.ytimg.com/vi/xYHGE93zeQY/hqdefault.jpg",
+      "duration": "PT2M45S",
+      "publishedAt": "2026-07-28T16:00:06Z",
+      "region": "GB"
+    },
+    {
+      "id": "4U4jJKH7VLc",
+      "title": "Ariana Grande - like i do (official visualizer)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/4U4jJKH7VLc/hqdefault.jpg",
+      "duration": "PT2M47S",
+      "publishedAt": "2026-07-31T04:00:22Z",
+      "region": "GB"
+    },
+    {
+      "id": "gP9HiCrrT38",
+      "title": "Potter Payper - FWM (Official Music Video) | @PotterPayper",
+      "channelTitle": "Potter Payper",
+      "thumbnail": "https://i.ytimg.com/vi/gP9HiCrrT38/hqdefault.jpg",
+      "duration": "PT3M45S",
+      "publishedAt": "2026-07-30T18:00:07Z",
+      "region": "GB"
+    },
+    {
+      "id": "wvD4NChJ3Zg",
+      "title": "Mazza L20 - Whats Love (Official Music Video)",
+      "channelTitle": "Mazza_l20",
+      "thumbnail": "https://i.ytimg.com/vi/wvD4NChJ3Zg/hqdefault.jpg",
+      "duration": "PT2M22S",
+      "publishedAt": "2026-07-30T18:30:06Z",
+      "region": "GB"
+    },
+    {
+      "id": "2fJN18HYPKc",
+      "title": "Alphaville - Forever Young (Lyrics)",
+      "channelTitle": "Groovora",
+      "thumbnail": "https://i.ytimg.com/vi/2fJN18HYPKc/hqdefault.jpg",
+      "duration": "PT3M49S",
+      "publishedAt": "2026-07-28T14:19:25Z",
       "region": "GB"
     },
     {
@@ -527,21 +527,21 @@
       "region": "GB"
     },
     {
-      "id": "IddUJxhDgZk",
-      "title": "Tony Iommi – World Alone (Official Video)",
-      "channelTitle": "Tony Iommi",
-      "thumbnail": "https://i.ytimg.com/vi/IddUJxhDgZk/hqdefault.jpg",
-      "duration": "PT7M24S",
-      "publishedAt": "2026-07-29T14:55:06Z",
+      "id": "lNKVrNKXWfU",
+      "title": "K-Trap - Made It Back (Freestyle)",
+      "channelTitle": "K-TRAP",
+      "thumbnail": "https://i.ytimg.com/vi/lNKVrNKXWfU/hqdefault.jpg",
+      "duration": "PT2M54S",
+      "publishedAt": "2026-07-30T20:30:13Z",
       "region": "GB"
     },
     {
-      "id": "oe-bhvLJNjc",
-      "title": "Foreigner - I Want To Know What Love Is (Live From Ellis Island) (Official Music Video)",
-      "channelTitle": "ForeignerVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/oe-bhvLJNjc/hqdefault.jpg",
-      "duration": "PT6M15S",
-      "publishedAt": "2026-07-24T04:00:17Z",
+      "id": "lAkWjiaQSSQ",
+      "title": "Katy Perry - The One That Got Away (Lyrics)",
+      "channelTitle": "Arcade Music",
+      "thumbnail": "https://i.ytimg.com/vi/lAkWjiaQSSQ/hqdefault.jpg",
+      "duration": "PT3M48S",
+      "publishedAt": "2026-07-29T15:05:31Z",
       "region": "GB"
     },
     {
@@ -554,12 +554,12 @@
       "region": "CA"
     },
     {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
       "region": "CA"
     },
     {
@@ -617,6 +617,24 @@
       "region": "CA"
     },
     {
+      "id": "fUZVwTQF3LQ",
+      "title": "kiss me",
+      "channelTitle": "Ariana Grande - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/fUZVwTQF3LQ/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-31T04:04:31Z",
+      "region": "CA"
+    },
+    {
+      "id": "oe-bhvLJNjc",
+      "title": "Foreigner - I Want To Know What Love Is (Live From Ellis Island) (Official Music Video)",
+      "channelTitle": "ForeignerVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/oe-bhvLJNjc/hqdefault.jpg",
+      "duration": "PT6M15S",
+      "publishedAt": "2026-07-24T04:00:17Z",
+      "region": "CA"
+    },
+    {
       "id": "0ijm2Xui5N8",
       "title": "ADÉLA - Ain't In LA",
       "channelTitle": "AdelaMusicVEVO",
@@ -635,24 +653,6 @@
       "region": "CA"
     },
     {
-      "id": "oe-bhvLJNjc",
-      "title": "Foreigner - I Want To Know What Love Is (Live From Ellis Island) (Official Music Video)",
-      "channelTitle": "ForeignerVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/oe-bhvLJNjc/hqdefault.jpg",
-      "duration": "PT6M15S",
-      "publishedAt": "2026-07-24T04:00:17Z",
-      "region": "CA"
-    },
-    {
-      "id": "PXxbEfhtDiM",
-      "title": "Lil Baby - Dead Fresh (Official Video)",
-      "channelTitle": "LilBabyVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/PXxbEfhtDiM/hqdefault.jpg",
-      "duration": "PT2M50S",
-      "publishedAt": "2026-07-20T22:00:06Z",
-      "region": "CA"
-    },
-    {
       "id": "g16sDYTn8j0",
       "title": "NO BATIDÃO",
       "channelTitle": "slxughter - Topic",
@@ -662,30 +662,12 @@
       "region": "CA"
     },
     {
-      "id": "Vjelj0un5CI",
-      "title": "BRABUS - Parmish Verma Ft. Kiran Bajwa | VICTORY LAP",
-      "channelTitle": "Parmish Verma",
-      "thumbnail": "https://i.ytimg.com/vi/Vjelj0un5CI/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "publishedAt": "2026-07-15T14:38:38Z",
-      "region": "CA"
-    },
-    {
-      "id": "GE6w7DRyqcM",
-      "title": "Headliner | Navaan Sandhu | Haakam ( Official Video ) Shimmy Shimmy ",
-      "channelTitle": "Navaan Sandhu",
-      "thumbnail": "https://i.ytimg.com/vi/GE6w7DRyqcM/hqdefault.jpg",
-      "duration": "PT5M9S",
-      "publishedAt": "2026-07-11T04:30:02Z",
-      "region": "CA"
-    },
-    {
-      "id": "LV5l-EOqgYk",
-      "title": "Sarkar Da Jawai (Official Video) | Shree Brar | Gurlez Akhtar | Punjabi Song 2026",
-      "channelTitle": "Shree Brar",
-      "thumbnail": "https://i.ytimg.com/vi/LV5l-EOqgYk/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "publishedAt": "2026-07-23T13:34:19Z",
+      "id": "_SPsjENFqbc",
+      "title": "like i do",
+      "channelTitle": "Ariana Grande - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/_SPsjENFqbc/hqdefault.jpg",
+      "duration": "PT2M48S",
+      "publishedAt": "2026-07-31T04:02:32Z",
       "region": "CA"
     },
     {
@@ -698,21 +680,30 @@
       "region": "CA"
     },
     {
-      "id": "B9Sbi14Q_QE",
-      "title": "Tu Chahida Ve (Official Video) Ammy Virk Ft. Isha Malviya | New Punjabi Song 2026",
-      "channelTitle": "Navras Records",
-      "thumbnail": "https://i.ytimg.com/vi/B9Sbi14Q_QE/hqdefault.jpg",
-      "duration": "PT2M33S",
-      "publishedAt": "2026-07-23T05:30:09Z",
+      "id": "XGKJxb2b3ZI",
+      "title": "benny blanco, Selena Gomez, Becky G - Te Olvido (La La) [Official Music Video]",
+      "channelTitle": "bennyblancoVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/XGKJxb2b3ZI/hqdefault.jpg",
+      "duration": "PT3M10S",
+      "publishedAt": "2026-07-31T04:00:32Z",
       "region": "CA"
     },
     {
-      "id": "GEk4jHwfFTA",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/GEk4jHwfFTA/hqdefault.jpg",
-      "duration": "PT3M27S",
-      "publishedAt": "2026-07-19T04:00:02Z",
+      "id": "PXxbEfhtDiM",
+      "title": "Lil Baby - Dead Fresh (Official Video)",
+      "channelTitle": "LilBabyVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/PXxbEfhtDiM/hqdefault.jpg",
+      "duration": "PT2M50S",
+      "publishedAt": "2026-07-20T22:00:06Z",
+      "region": "CA"
+    },
+    {
+      "id": "Vjelj0un5CI",
+      "title": "BRABUS - Parmish Verma Ft. Kiran Bajwa | VICTORY LAP",
+      "channelTitle": "Parmish Verma",
+      "thumbnail": "https://i.ytimg.com/vi/Vjelj0un5CI/hqdefault.jpg",
+      "duration": "PT3M17S",
+      "publishedAt": "2026-07-15T14:38:38Z",
       "region": "CA"
     },
     {
@@ -725,21 +716,21 @@
       "region": "CA"
     },
     {
+      "id": "GE6w7DRyqcM",
+      "title": "Headliner | Navaan Sandhu | Haakam ( Official Video ) Shimmy Shimmy ",
+      "channelTitle": "Navaan Sandhu",
+      "thumbnail": "https://i.ytimg.com/vi/GE6w7DRyqcM/hqdefault.jpg",
+      "duration": "PT5M9S",
+      "publishedAt": "2026-07-11T04:30:02Z",
+      "region": "CA"
+    },
+    {
       "id": "m7k9UMcHbr0",
       "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
       "channelTitle": "HYBE LABELS",
       "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
       "duration": "PT3M11S",
       "publishedAt": "2026-07-24T03:59:06Z",
-      "region": "AU"
-    },
-    {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
       "region": "AU"
     },
     {
@@ -752,6 +743,15 @@
       "region": "AU"
     },
     {
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
+      "region": "AU"
+    },
+    {
       "id": "ONeljeEHZcs",
       "title": "Galumph Went the Little Green Frog 🐸 Nursery Rhyme about Animals 🎶 The Wiggles Kids Songs",
       "channelTitle": "The Wiggles",
@@ -761,20 +761,20 @@
       "region": "AU"
     },
     {
-      "id": "9ji4JnBsS-Y",
-      "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
-      "channelTitle": "Electric Callboy",
-      "thumbnail": "https://i.ytimg.com/vi/9ji4JnBsS-Y/hqdefault.jpg",
-      "duration": "PT2M43S",
-      "publishedAt": "2026-07-28T14:00:06Z",
-      "region": "AU"
-    },
-    {
       "id": "GpB18MIw3y0",
       "title": "Sam Fender & Lewis Capaldi - Rein Me In (Live at American Express Presents BST Hyde Park)",
       "channelTitle": "Lewis Capaldi",
       "thumbnail": "https://i.ytimg.com/vi/GpB18MIw3y0/hqdefault.jpg",
       "duration": "PT6M1S",
+      "publishedAt": "2026-07-28T14:00:06Z",
+      "region": "AU"
+    },
+    {
+      "id": "9ji4JnBsS-Y",
+      "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
+      "channelTitle": "Electric Callboy",
+      "thumbnail": "https://i.ytimg.com/vi/9ji4JnBsS-Y/hqdefault.jpg",
+      "duration": "PT2M43S",
       "publishedAt": "2026-07-28T14:00:06Z",
       "region": "AU"
     },
@@ -833,12 +833,30 @@
       "region": "AU"
     },
     {
+      "id": "fUZVwTQF3LQ",
+      "title": "kiss me",
+      "channelTitle": "Ariana Grande - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/fUZVwTQF3LQ/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-31T04:04:31Z",
+      "region": "AU"
+    },
+    {
       "id": "XbsShkWWMV0",
       "title": "Counting Gems (Official Video) | Arjan Dhillon | MXRCI | Latest Punjabi Songs 2026",
       "channelTitle": "Panj-aab Records",
       "thumbnail": "https://i.ytimg.com/vi/XbsShkWWMV0/hqdefault.jpg",
       "duration": "PT3M56S",
       "publishedAt": "2026-07-21T12:30:02Z",
+      "region": "AU"
+    },
+    {
+      "id": "_SPsjENFqbc",
+      "title": "like i do",
+      "channelTitle": "Ariana Grande - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/_SPsjENFqbc/hqdefault.jpg",
+      "duration": "PT2M48S",
+      "publishedAt": "2026-07-31T04:02:32Z",
       "region": "AU"
     },
     {
@@ -887,22 +905,13 @@
       "region": "AU"
     },
     {
-      "id": "GE6w7DRyqcM",
-      "title": "Headliner | Navaan Sandhu | Haakam ( Official Video ) Shimmy Shimmy ",
-      "channelTitle": "Navaan Sandhu",
-      "thumbnail": "https://i.ytimg.com/vi/GE6w7DRyqcM/hqdefault.jpg",
-      "duration": "PT5M9S",
-      "publishedAt": "2026-07-11T04:30:02Z",
-      "region": "AU"
-    },
-    {
-      "id": "TqdiAfxub44",
-      "title": "Ho Hey",
-      "channelTitle": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/TqdiAfxub44/hqdefault.jpg",
-      "duration": "PT2M44S",
-      "publishedAt": "2026-07-21T06:57:47Z",
-      "region": "AU"
+      "id": "xYHGE93zeQY",
+      "title": "DHURATA DORA ft GJESTI - GASOLINA (Official Video)",
+      "channelTitle": "Dhurata Dora",
+      "thumbnail": "https://i.ytimg.com/vi/xYHGE93zeQY/hqdefault.jpg",
+      "duration": "PT2M45S",
+      "publishedAt": "2026-07-28T16:00:06Z",
+      "region": "DE"
     },
     {
       "id": "m7k9UMcHbr0",
@@ -911,15 +920,6 @@
       "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
       "duration": "PT3M11S",
       "publishedAt": "2026-07-24T03:59:06Z",
-      "region": "DE"
-    },
-    {
-      "id": "xYHGE93zeQY",
-      "title": "DHURATA DORA ft GJESTI - GASOLINA (Official Video)",
-      "channelTitle": "Dhurata Dora",
-      "thumbnail": "https://i.ytimg.com/vi/xYHGE93zeQY/hqdefault.jpg",
-      "duration": "PT2M45S",
-      "publishedAt": "2026-07-28T16:00:06Z",
       "region": "DE"
     },
     {
@@ -932,6 +932,15 @@
       "region": "DE"
     },
     {
+      "id": "bqBmCGp1-eY",
+      "title": "LACAZETTE - ABC",
+      "channelTitle": "LACAZETTE ",
+      "thumbnail": "https://i.ytimg.com/vi/bqBmCGp1-eY/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "publishedAt": "2026-07-30T21:00:17Z",
+      "region": "DE"
+    },
+    {
       "id": "9ji4JnBsS-Y",
       "title": "Electric Callboy - THE WAY YOU ARE (OFFICIAL VIDEO)",
       "channelTitle": "Electric Callboy",
@@ -941,12 +950,12 @@
       "region": "DE"
     },
     {
-      "id": "Imw-fNHwojA",
-      "title": "CAPITAL BRA x SAMRA - SONNE ÜBER BERLIN [Official Video]",
-      "channelTitle": "Capital Bra",
-      "thumbnail": "https://i.ytimg.com/vi/Imw-fNHwojA/hqdefault.jpg",
-      "duration": "PT2M55S",
-      "publishedAt": "2026-07-16T22:00:07Z",
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
       "region": "DE"
     },
     {
@@ -956,6 +965,15 @@
       "thumbnail": "https://i.ytimg.com/vi/AyRc0DQau7Q/hqdefault.jpg",
       "duration": "PT3M23S",
       "publishedAt": "2026-07-23T22:00:06Z",
+      "region": "DE"
+    },
+    {
+      "id": "Imw-fNHwojA",
+      "title": "CAPITAL BRA x SAMRA - SONNE ÜBER BERLIN [Official Video]",
+      "channelTitle": "Capital Bra",
+      "thumbnail": "https://i.ytimg.com/vi/Imw-fNHwojA/hqdefault.jpg",
+      "duration": "PT2M55S",
+      "publishedAt": "2026-07-16T22:00:07Z",
       "region": "DE"
     },
     {
@@ -977,66 +995,30 @@
       "region": "DE"
     },
     {
+      "id": "g16sDYTn8j0",
+      "title": "NO BATIDÃO",
+      "channelTitle": "slxughter - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg",
+      "duration": "PT1M30S",
+      "publishedAt": "2026-07-29T08:18:10Z",
+      "region": "DE"
+    },
+    {
+      "id": "ItIUkysVB_A",
+      "title": "VOLO X KOLJA GOLDSTEIN X SA4 - KEINE POLITIK",
+      "channelTitle": "VOLO",
+      "thumbnail": "https://i.ytimg.com/vi/ItIUkysVB_A/hqdefault.jpg",
+      "duration": "PT2M56S",
+      "publishedAt": "2026-07-30T20:34:53Z",
+      "region": "DE"
+    },
+    {
       "id": "__USg_UHuzk",
       "title": "ERA ISTREFI x LEDRI VULA - VEÇ TI (Official Music Video)",
       "channelTitle": "Era Istrefi",
       "thumbnail": "https://i.ytimg.com/vi/__USg_UHuzk/hqdefault.jpg",
       "duration": "PT3M3S",
       "publishedAt": "2026-07-19T16:00:06Z",
-      "region": "DE"
-    },
-    {
-      "id": "6hvVxah2r88",
-      "title": "Zeiten ändern mich",
-      "channelTitle": "ELIVION - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/6hvVxah2r88/hqdefault.jpg",
-      "duration": "PT2M21S",
-      "publishedAt": "2026-07-23T10:04:41Z",
-      "region": "DE"
-    },
-    {
-      "id": "3YA7yQpG4q4",
-      "title": "Irkenc Hyka ft. DJ Gimi-O & Florian Tufallari - Ferrari",
-      "channelTitle": "UnixMusic",
-      "thumbnail": "https://i.ytimg.com/vi/3YA7yQpG4q4/hqdefault.jpg",
-      "duration": "PT2M41S",
-      "publishedAt": "2026-07-23T16:00:06Z",
-      "region": "DE"
-    },
-    {
-      "id": "qLalJpil7y0",
-      "title": "Turn The Tide (ft. Sylver)",
-      "channelTitle": "Like Mike - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/qLalJpil7y0/hqdefault.jpg",
-      "duration": "PT2M16S",
-      "publishedAt": "2026-07-16T10:01:41Z",
-      "region": "DE"
-    },
-    {
-      "id": "CLvxKUG6isI",
-      "title": "SHABAB X RASA - À la Carte 2",
-      "channelTitle": "SHABAB",
-      "thumbnail": "https://i.ytimg.com/vi/CLvxKUG6isI/hqdefault.jpg",
-      "duration": "PT2M56S",
-      "publishedAt": "2026-07-23T22:00:06Z",
-      "region": "DE"
-    },
-    {
-      "id": "K36RYOI1MHs",
-      "title": "SHINDY - HIS & HERS",
-      "channelTitle": "Shindy",
-      "thumbnail": "https://i.ytimg.com/vi/K36RYOI1MHs/hqdefault.jpg",
-      "duration": "PT2M36S",
-      "publishedAt": "2026-07-23T22:00:11Z",
-      "region": "DE"
-    },
-    {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
       "region": "DE"
     },
     {
@@ -1049,6 +1031,33 @@
       "region": "DE"
     },
     {
+      "id": "3YA7yQpG4q4",
+      "title": "Irkenc Hyka ft. DJ Gimi-O & Florian Tufallari - Ferrari",
+      "channelTitle": "UnixMusic",
+      "thumbnail": "https://i.ytimg.com/vi/3YA7yQpG4q4/hqdefault.jpg",
+      "duration": "PT2M41S",
+      "publishedAt": "2026-07-23T16:00:06Z",
+      "region": "DE"
+    },
+    {
+      "id": "6hvVxah2r88",
+      "title": "Zeiten ändern mich",
+      "channelTitle": "ELIVION - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/6hvVxah2r88/hqdefault.jpg",
+      "duration": "PT2M21S",
+      "publishedAt": "2026-07-23T10:04:41Z",
+      "region": "DE"
+    },
+    {
+      "id": "tOVzhU4mp-o",
+      "title": "JAZEEK x LUCIANO - WER BIST DU DENN? (Official Video)",
+      "channelTitle": "Jazeek",
+      "thumbnail": "https://i.ytimg.com/vi/tOVzhU4mp-o/hqdefault.jpg",
+      "duration": "PT2M54S",
+      "publishedAt": "2026-07-30T22:00:06Z",
+      "region": "DE"
+    },
+    {
       "id": "UonPddf8O3M",
       "title": "Florin Cercel - Bate vantule mai tare (Official Video) | Manele TV",
       "channelTitle": "Manele TV",
@@ -1058,30 +1067,21 @@
       "region": "DE"
     },
     {
-      "id": "ACDh4hMC7do",
-      "title": "Sierra Kidd - Free Kidd (Offizielles Musikvideo)",
-      "channelTitle": "Sierra Kidd",
-      "thumbnail": "https://i.ytimg.com/vi/ACDh4hMC7do/hqdefault.jpg",
-      "duration": "PT9M1S",
+      "id": "CLvxKUG6isI",
+      "title": "SHABAB X RASA - À la Carte 2",
+      "channelTitle": "SHABAB",
+      "thumbnail": "https://i.ytimg.com/vi/CLvxKUG6isI/hqdefault.jpg",
+      "duration": "PT2M56S",
       "publishedAt": "2026-07-23T22:00:06Z",
       "region": "DE"
     },
     {
-      "id": "_IT83Y_HcAw",
-      "title": "JENNIE - Less than a Lover (Official Video)",
-      "channelTitle": "JennieRubyJaneVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
-      "duration": "PT3M39S",
-      "publishedAt": "2026-07-24T04:00:05Z",
-      "region": "DE"
-    },
-    {
-      "id": "SN9PLA2VKC4",
-      "title": "Dafina Zeqiri - Syrin Tan",
-      "channelTitle": "Dafina Zeqiri",
-      "thumbnail": "https://i.ytimg.com/vi/SN9PLA2VKC4/hqdefault.jpg",
-      "duration": "PT3M26S",
-      "publishedAt": "2026-07-23T16:00:06Z",
+      "id": "QZjLqtr2tKM",
+      "title": "Sääftig x Takeo Ischi - YODEL TECHNO (Musikvideo)",
+      "channelTitle": "Sääftig",
+      "thumbnail": "https://i.ytimg.com/vi/QZjLqtr2tKM/hqdefault.jpg",
+      "duration": "PT2M35S",
+      "publishedAt": "2026-07-30T18:00:06Z",
       "region": "DE"
     },
     {
@@ -1094,15 +1094,6 @@
       "region": "FR"
     },
     {
-      "id": "m7k9UMcHbr0",
-      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "publishedAt": "2026-07-24T03:59:06Z",
-      "region": "FR"
-    },
-    {
       "id": "W9Qjcx8nhnU",
       "title": "GIMS (ft. Mauvais Djo) - VIVE LA MONNAIE (Clip Officiel)",
       "channelTitle": "GIMS",
@@ -1112,12 +1103,12 @@
       "region": "FR"
     },
     {
-      "id": "v6TfDP8VQYo",
-      "title": "Timal - Sicario (Clip Officiel)",
-      "channelTitle": "Timal Official",
-      "thumbnail": "https://i.ytimg.com/vi/v6TfDP8VQYo/hqdefault.jpg",
-      "duration": "PT3M15S",
-      "publishedAt": "2026-07-23T10:00:05Z",
+      "id": "m7k9UMcHbr0",
+      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+      "channelTitle": "HYBE LABELS",
+      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
+      "duration": "PT3M11S",
+      "publishedAt": "2026-07-24T03:59:06Z",
       "region": "FR"
     },
     {
@@ -1130,12 +1121,57 @@
       "region": "FR"
     },
     {
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
+      "region": "FR"
+    },
+    {
+      "id": "w1-iaK49zBg",
+      "title": "Pilé",
+      "channelTitle": "Mauvais Djo - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/w1-iaK49zBg/hqdefault.jpg",
+      "duration": "PT2M37S",
+      "publishedAt": "2026-07-27T10:28:01Z",
+      "region": "FR"
+    },
+    {
+      "id": "wlelkl12p28",
+      "title": "Djelykaba Bintou Feat. Sidiki Diabaté - Ma vie (Clip Officiel)",
+      "channelTitle": "Djelykaba Bintou",
+      "thumbnail": "https://i.ytimg.com/vi/wlelkl12p28/hqdefault.jpg",
+      "duration": "PT3M36S",
+      "publishedAt": "2026-07-30T18:00:09Z",
+      "region": "FR"
+    },
+    {
+      "id": "v6TfDP8VQYo",
+      "title": "Timal - Sicario (Clip Officiel)",
+      "channelTitle": "Timal Official",
+      "thumbnail": "https://i.ytimg.com/vi/v6TfDP8VQYo/hqdefault.jpg",
+      "duration": "PT3M15S",
+      "publishedAt": "2026-07-23T10:00:05Z",
+      "region": "FR"
+    },
+    {
       "id": "x7grrnkKL2U",
       "title": "Keblack & Franglish - Uber Ft. Mauvais djo",
       "channelTitle": "Keblack",
       "thumbnail": "https://i.ytimg.com/vi/x7grrnkKL2U/hqdefault.jpg",
       "duration": "PT2M40S",
       "publishedAt": "2026-07-21T14:00:30Z",
+      "region": "FR"
+    },
+    {
+      "id": "g16sDYTn8j0",
+      "title": "NO BATIDÃO",
+      "channelTitle": "slxughter - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg",
+      "duration": "PT1M30S",
+      "publishedAt": "2026-07-29T08:18:10Z",
       "region": "FR"
     },
     {
@@ -1148,12 +1184,30 @@
       "region": "FR"
     },
     {
+      "id": "VoFFuF4zSjY",
+      "title": "Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli",
+      "channelTitle": "daydream.",
+      "thumbnail": "https://i.ytimg.com/vi/VoFFuF4zSjY/hqdefault.jpg",
+      "duration": "PT3M19S",
+      "publishedAt": "2026-07-28T16:30:01Z",
+      "region": "FR"
+    },
+    {
       "id": "Qta2nRCLPp0",
       "title": "Missan (ft @jksnofficiel) - PARADIS FISCAL (CLIP OFFICIEL)",
       "channelTitle": "Missan",
       "thumbnail": "https://i.ytimg.com/vi/Qta2nRCLPp0/hqdefault.jpg",
       "duration": "PT2M39S",
       "publishedAt": "2026-07-24T16:01:53Z",
+      "region": "FR"
+    },
+    {
+      "id": "0IXXBpTW7kw",
+      "title": "Petit matin",
+      "channelTitle": "TRIANGLE DES BERMUDES - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/0IXXBpTW7kw/hqdefault.jpg",
+      "duration": "PT2M35S",
+      "publishedAt": "2026-07-30T10:03:14Z",
       "region": "FR"
     },
     {
@@ -1166,12 +1220,12 @@
       "region": "FR"
     },
     {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
+      "id": "2fJN18HYPKc",
+      "title": "Alphaville - Forever Young (Lyrics)",
+      "channelTitle": "Groovora",
+      "thumbnail": "https://i.ytimg.com/vi/2fJN18HYPKc/hqdefault.jpg",
+      "duration": "PT3M49S",
+      "publishedAt": "2026-07-28T14:19:25Z",
       "region": "FR"
     },
     {
@@ -1202,66 +1256,12 @@
       "region": "FR"
     },
     {
-      "id": "VoFFuF4zSjY",
-      "title": "Aaron Smith - Dancin - Krono Remix (Lyrics) ft. Luvli",
-      "channelTitle": "daydream.",
-      "thumbnail": "https://i.ytimg.com/vi/VoFFuF4zSjY/hqdefault.jpg",
-      "duration": "PT3M19S",
-      "publishedAt": "2026-07-28T16:30:01Z",
-      "region": "FR"
-    },
-    {
       "id": "_IT83Y_HcAw",
       "title": "JENNIE - Less than a Lover (Official Video)",
       "channelTitle": "JennieRubyJaneVEVO",
       "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
       "duration": "PT3M39S",
       "publishedAt": "2026-07-24T04:00:05Z",
-      "region": "FR"
-    },
-    {
-      "id": "g16sDYTn8j0",
-      "title": "NO BATIDÃO",
-      "channelTitle": "slxughter - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg",
-      "duration": "PT1M30S",
-      "publishedAt": "2026-07-29T08:18:10Z",
-      "region": "FR"
-    },
-    {
-      "id": "3P9hJnlPo4w",
-      "title": "GGB - All My Life (ft Adèle Castillon, Lena, Jain, Eva)",
-      "channelTitle": "SQUEEZIE",
-      "thumbnail": "https://i.ytimg.com/vi/3P9hJnlPo4w/hqdefault.jpg",
-      "duration": "PT3M46S",
-      "publishedAt": "2026-07-08T16:08:40Z",
-      "region": "FR"
-    },
-    {
-      "id": "t1EPbAqKGjM",
-      "title": "Naza - Ketchup (Clip Officiel)",
-      "channelTitle": "NAZA",
-      "thumbnail": "https://i.ytimg.com/vi/t1EPbAqKGjM/hqdefault.jpg",
-      "duration": "PT2M55S",
-      "publishedAt": "2026-07-24T15:00:03Z",
-      "region": "FR"
-    },
-    {
-      "id": "or2W7kw3eKw",
-      "title": "Etoiles vagabondes",
-      "channelTitle": "Khaly - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/or2W7kw3eKw/hqdefault.jpg",
-      "duration": "PT1M53S",
-      "publishedAt": "2026-07-23T10:03:37Z",
-      "region": "FR"
-    },
-    {
-      "id": "2fJN18HYPKc",
-      "title": "Alphaville - Forever Young (Lyrics)",
-      "channelTitle": "Groovora",
-      "thumbnail": "https://i.ytimg.com/vi/2fJN18HYPKc/hqdefault.jpg",
-      "duration": "PT3M49S",
-      "publishedAt": "2026-07-28T14:19:25Z",
       "region": "FR"
     },
     {
@@ -1292,21 +1292,30 @@
       "region": "JP"
     },
     {
+      "id": "dePs7UPp6GQ",
+      "title": "Mrs. GREEN APPLE「Brand New」Official Music Video",
+      "channelTitle": "Mrs. GREEN APPLE",
+      "thumbnail": "https://i.ytimg.com/vi/dePs7UPp6GQ/hqdefault.jpg",
+      "duration": "PT3M41S",
+      "publishedAt": "2026-07-31T12:00:06Z",
+      "region": "JP"
+    },
+    {
+      "id": "gXNbJEYuoSw",
+      "title": "BE:FIRST / BRUCE WAYNE feat. Flo Milli, ATL Jacob -Music Video-",
+      "channelTitle": "BE:FIRST Official",
+      "thumbnail": "https://i.ytimg.com/vi/gXNbJEYuoSw/hqdefault.jpg",
+      "duration": "PT5M11S",
+      "publishedAt": "2026-07-31T04:00:06Z",
+      "region": "JP"
+    },
+    {
       "id": "3C0EOqt7sqA",
       "title": "M!LK - You!Joy!Parade! (Official Music Video)",
       "channelTitle": "M!LK",
       "thumbnail": "https://i.ytimg.com/vi/3C0EOqt7sqA/hqdefault.jpg",
       "duration": "PT3M47S",
       "publishedAt": "2026-07-17T10:00:05Z",
-      "region": "JP"
-    },
-    {
-      "id": "uWKFyDPajeo",
-      "title": "モエチャッカファイア／Cover - ヒューゴ、狛野真斗、ライト、セヴェリアン",
-      "channelTitle": "HoYoFair",
-      "thumbnail": "https://i.ytimg.com/vi/uWKFyDPajeo/hqdefault.jpg",
-      "duration": "PT2M37S",
-      "publishedAt": "2026-07-25T14:00:20Z",
       "region": "JP"
     },
     {
@@ -1319,39 +1328,12 @@
       "region": "JP"
     },
     {
-      "id": "Lz24PqZkF2s",
-      "title": "T.M.Revolution - HOT LIMIT / THE FIRST TAKE",
-      "channelTitle": "THE FIRST TAKE",
-      "thumbnail": "https://i.ytimg.com/vi/Lz24PqZkF2s/hqdefault.jpg",
-      "duration": "PT5M12S",
-      "publishedAt": "2026-07-10T13:00:07Z",
-      "region": "JP"
-    },
-    {
-      "id": "UZ4an60Zmvc",
-      "title": "Brand New",
-      "channelTitle": "Mrs. GREEN APPLE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/UZ4an60Zmvc/hqdefault.jpg",
-      "duration": "PT3M32S",
-      "publishedAt": "2026-07-12T15:00:29Z",
-      "region": "JP"
-    },
-    {
-      "id": "3lOsboT-IWU",
-      "title": "SixTONES – マイオンリー",
-      "channelTitle": "SixTONES",
-      "thumbnail": "https://i.ytimg.com/vi/3lOsboT-IWU/hqdefault.jpg",
-      "duration": "PT4M",
-      "publishedAt": "2026-07-17T10:00:06Z",
-      "region": "JP"
-    },
-    {
-      "id": "HZcpB0PfG6g",
-      "title": "うさぎラップ (リズム感のある者たちver.)",
-      "channelTitle": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/HZcpB0PfG6g/hqdefault.jpg",
-      "duration": "PT1M16S",
-      "publishedAt": "2026-07-24T15:03:27Z",
+      "id": "uWKFyDPajeo",
+      "title": "モエチャッカファイア／Cover - ヒューゴ、狛野真斗、ライト、セヴェリアン",
+      "channelTitle": "HoYoFair",
+      "thumbnail": "https://i.ytimg.com/vi/uWKFyDPajeo/hqdefault.jpg",
+      "duration": "PT2M37S",
+      "publishedAt": "2026-07-25T14:00:20Z",
       "region": "JP"
     },
     {
@@ -1364,12 +1346,48 @@
       "region": "JP"
     },
     {
+      "id": "Lz24PqZkF2s",
+      "title": "T.M.Revolution - HOT LIMIT / THE FIRST TAKE",
+      "channelTitle": "THE FIRST TAKE",
+      "thumbnail": "https://i.ytimg.com/vi/Lz24PqZkF2s/hqdefault.jpg",
+      "duration": "PT5M12S",
+      "publishedAt": "2026-07-10T13:00:07Z",
+      "region": "JP"
+    },
+    {
+      "id": "HZcpB0PfG6g",
+      "title": "うさぎラップ (リズム感のある者たちver.)",
+      "channelTitle": "Release - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/HZcpB0PfG6g/hqdefault.jpg",
+      "duration": "PT1M16S",
+      "publishedAt": "2026-07-24T15:03:27Z",
+      "region": "JP"
+    },
+    {
       "id": "x3sOXlcrpLg",
       "title": "机さする",
       "channelTitle": "Haruka Aoki - Topic",
       "thumbnail": "https://i.ytimg.com/vi/x3sOXlcrpLg/hqdefault.jpg",
       "duration": "PT3M58S",
       "publishedAt": "2026-07-24T15:02:25Z",
+      "region": "JP"
+    },
+    {
+      "id": "9VoZ0BwjBbk",
+      "title": "くつずれ",
+      "channelTitle": "Release - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/9VoZ0BwjBbk/hqdefault.jpg",
+      "duration": "PT3M1S",
+      "publishedAt": "2026-07-24T15:04:58Z",
+      "region": "JP"
+    },
+    {
+      "id": "3lOsboT-IWU",
+      "title": "SixTONES – マイオンリー",
+      "channelTitle": "SixTONES",
+      "thumbnail": "https://i.ytimg.com/vi/3lOsboT-IWU/hqdefault.jpg",
+      "duration": "PT4M",
+      "publishedAt": "2026-07-17T10:00:06Z",
       "region": "JP"
     },
     {
@@ -1382,12 +1400,12 @@
       "region": "JP"
     },
     {
-      "id": "9VoZ0BwjBbk",
-      "title": "くつずれ",
-      "channelTitle": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/9VoZ0BwjBbk/hqdefault.jpg",
-      "duration": "PT3M1S",
-      "publishedAt": "2026-07-24T15:04:58Z",
+      "id": "VdDPPWb5cF8",
+      "title": "好き",
+      "channelTitle": "星野源 Gen Hoshino - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/VdDPPWb5cF8/hqdefault.jpg",
+      "duration": "PT3M51S",
+      "publishedAt": "2026-07-28T10:01:53Z",
       "region": "JP"
     },
     {
@@ -1409,24 +1427,6 @@
       "region": "JP"
     },
     {
-      "id": "VdDPPWb5cF8",
-      "title": "好き",
-      "channelTitle": "星野源 Gen Hoshino - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/VdDPPWb5cF8/hqdefault.jpg",
-      "duration": "PT3M51S",
-      "publishedAt": "2026-07-28T10:01:53Z",
-      "region": "JP"
-    },
-    {
-      "id": "lmYusdmVg28",
-      "title": "SixTONES – Dance Forever",
-      "channelTitle": "SixTONES",
-      "thumbnail": "https://i.ytimg.com/vi/lmYusdmVg28/hqdefault.jpg",
-      "duration": "PT4M4S",
-      "publishedAt": "2026-07-16T10:00:06Z",
-      "region": "JP"
-    },
-    {
       "id": "FHszfXyfQ4w",
       "title": "うさぎラップ (ソロver.)",
       "channelTitle": "Release - Topic",
@@ -1436,12 +1436,12 @@
       "region": "JP"
     },
     {
-      "id": "l2jvIuTp534",
-      "title": "米津玄師「夜鷹」Kenshi Yonezu - Yodaka",
-      "channelTitle": "Kenshi Yonezu  米津玄師",
-      "thumbnail": "https://i.ytimg.com/vi/l2jvIuTp534/hqdefault.jpg",
-      "duration": "PT3M29S",
-      "publishedAt": "2026-07-15T11:00:06Z",
+      "id": "lmYusdmVg28",
+      "title": "SixTONES – Dance Forever",
+      "channelTitle": "SixTONES",
+      "thumbnail": "https://i.ytimg.com/vi/lmYusdmVg28/hqdefault.jpg",
+      "duration": "PT4M4S",
+      "publishedAt": "2026-07-16T10:00:06Z",
       "region": "JP"
     },
     {
@@ -1517,6 +1517,15 @@
       "region": "KR"
     },
     {
+      "id": "7LjFAoWvsbE",
+      "title": "Novelbright(노벨브라이트) - Walking with you 🎵\"저 가수입니다🎤\" by강남 (with. 타케나카 유다이)",
+      "channelTitle": "동네친구 강나미 [Kangnami]",
+      "thumbnail": "https://i.ytimg.com/vi/7LjFAoWvsbE/hqdefault.jpg",
+      "duration": "PT3M47S",
+      "publishedAt": "2026-07-21T10:30:12Z",
+      "region": "KR"
+    },
+    {
       "id": "yKr9LrkI20U",
       "title": "million reasons",
       "channelTitle": "Young K - Topic",
@@ -1532,6 +1541,15 @@
       "thumbnail": "https://i.ytimg.com/vi/KgIsVeN4g0E/hqdefault.jpg",
       "duration": "PT3M45S",
       "publishedAt": "2026-07-29T09:04:44Z",
+      "region": "KR"
+    },
+    {
+      "id": "8W64YPnRu1Y",
+      "title": "MOTION (feat. Juicy J)",
+      "channelTitle": "CORTIS - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/8W64YPnRu1Y/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "publishedAt": "2026-07-31T04:00:13Z",
       "region": "KR"
     },
     {
@@ -1562,6 +1580,24 @@
       "region": "KR"
     },
     {
+      "id": "g16sDYTn8j0",
+      "title": "NO BATIDÃO",
+      "channelTitle": "slxughter - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg",
+      "duration": "PT1M30S",
+      "publishedAt": "2026-07-29T08:18:10Z",
+      "region": "KR"
+    },
+    {
+      "id": "_SPsjENFqbc",
+      "title": "like i do",
+      "channelTitle": "Ariana Grande - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/_SPsjENFqbc/hqdefault.jpg",
+      "duration": "PT2M48S",
+      "publishedAt": "2026-07-31T04:02:32Z",
+      "region": "KR"
+    },
+    {
       "id": "VNLUaTxDs_4",
       "title": "Brainwash",
       "channelTitle": "HEEDAE - Topic",
@@ -1580,48 +1616,12 @@
       "region": "KR"
     },
     {
-      "id": "Q2OhwjFoUn0",
-      "title": "to the Sea (2026)",
-      "channelTitle": "Ha Yea Song - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Q2OhwjFoUn0/hqdefault.jpg",
-      "duration": "PT3M3S",
-      "publishedAt": "2026-07-15T09:03:33Z",
-      "region": "KR"
-    },
-    {
-      "id": "g16sDYTn8j0",
-      "title": "NO BATIDÃO",
-      "channelTitle": "slxughter - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/g16sDYTn8j0/hqdefault.jpg",
-      "duration": "PT1M30S",
-      "publishedAt": "2026-07-29T08:18:10Z",
-      "region": "KR"
-    },
-    {
-      "id": "Nm755ll3-co",
-      "title": "Stay With Me",
-      "channelTitle": "DK - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/Nm755ll3-co/hqdefault.jpg",
-      "duration": "PT3M20S",
-      "publishedAt": "2026-07-26T09:05:15Z",
-      "region": "KR"
-    },
-    {
-      "id": "jgjd9Ph0VhM",
-      "title": "Don't Be Happy",
-      "channelTitle": "DK - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/jgjd9Ph0VhM/hqdefault.jpg",
-      "duration": "PT5M59S",
-      "publishedAt": "2026-07-19T09:04:17Z",
-      "region": "KR"
-    },
-    {
-      "id": "1Y3UWCXjyj8",
-      "title": "ETERNAL",
-      "channelTitle": "fromis_9 - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/1Y3UWCXjyj8/hqdefault.jpg",
-      "duration": "PT3M6S",
-      "publishedAt": "2026-07-21T09:00:28Z",
+      "id": "0qSI_SNjYBY",
+      "title": "It's Summer",
+      "channelTitle": "entoy - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/0qSI_SNjYBY/hqdefault.jpg",
+      "duration": "PT2M43S",
+      "publishedAt": "2026-07-28T09:03:20Z",
       "region": "KR"
     },
     {
@@ -1634,15 +1634,6 @@
       "region": "BR"
     },
     {
-      "id": "5ECo1T32izc",
-      "title": "Zezé Di Camargo & Luciano - Pra Não Pensar em Você (Letra/Lyrics)",
-      "channelTitle": "Ginga Flow",
-      "thumbnail": "https://i.ytimg.com/vi/5ECo1T32izc/hqdefault.jpg",
-      "duration": "PT5M1S",
-      "publishedAt": "2026-07-24T10:30:06Z",
-      "region": "BR"
-    },
-    {
       "id": "AevjWsReCtM",
       "title": "Anitta, KBrum - Sal Grosso (Official Music Video)",
       "channelTitle": "Anitta",
@@ -1652,12 +1643,30 @@
       "region": "BR"
     },
     {
+      "id": "5ECo1T32izc",
+      "title": "Zezé Di Camargo & Luciano - Pra Não Pensar em Você (Letra/Lyrics)",
+      "channelTitle": "Ginga Flow",
+      "thumbnail": "https://i.ytimg.com/vi/5ECo1T32izc/hqdefault.jpg",
+      "duration": "PT5M1S",
+      "publishedAt": "2026-07-24T10:30:06Z",
+      "region": "BR"
+    },
+    {
       "id": "-fK39F0VKto",
       "title": "Cuida do Pet (Official)",
       "channelTitle": "OldillaVEVO",
       "thumbnail": "https://i.ytimg.com/vi/-fK39F0VKto/hqdefault.jpg",
       "duration": "PT7M39S",
       "publishedAt": "2026-07-16T19:56:28Z",
+      "region": "BR"
+    },
+    {
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
       "region": "BR"
     },
     {
@@ -1688,15 +1697,6 @@
       "region": "BR"
     },
     {
-      "id": "tk4qq6joKQM",
-      "title": "Separa e Volta - MC Vine7, MC Tuto, MC Ryan SP, MC Joãozinho VT e MC Poze do Rodo (DJ Gu)",
-      "channelTitle": "MC Vine7",
-      "thumbnail": "https://i.ytimg.com/vi/tk4qq6joKQM/hqdefault.jpg",
-      "duration": "PT4M45S",
-      "publishedAt": "2026-07-19T18:00:06Z",
-      "region": "BR"
-    },
-    {
       "id": "UsvG7s5wS24",
       "title": "Aurora",
       "channelTitle": "Jão - Topic",
@@ -1715,6 +1715,33 @@
       "region": "BR"
     },
     {
+      "id": "tk4qq6joKQM",
+      "title": "Separa e Volta - MC Vine7, MC Tuto, MC Ryan SP, MC Joãozinho VT e MC Poze do Rodo (DJ Gu)",
+      "channelTitle": "MC Vine7",
+      "thumbnail": "https://i.ytimg.com/vi/tk4qq6joKQM/hqdefault.jpg",
+      "duration": "PT4M45S",
+      "publishedAt": "2026-07-19T18:00:06Z",
+      "region": "BR"
+    },
+    {
+      "id": "2aoUnXHlEuw",
+      "title": "TREM DAS BARBIE - MCs J9, Don Juan,Ryan SP, Meno K, IG, Alan JR, Luuky,Menor Richard (Clipe Oficial)",
+      "channelTitle": "Mc J9",
+      "thumbnail": "https://i.ytimg.com/vi/2aoUnXHlEuw/hqdefault.jpg",
+      "duration": "PT8M25S",
+      "publishedAt": "2026-07-26T15:00:06Z",
+      "region": "BR"
+    },
+    {
+      "id": "oe-bhvLJNjc",
+      "title": "Foreigner - I Want To Know What Love Is (Live From Ellis Island) (Official Music Video)",
+      "channelTitle": "ForeignerVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/oe-bhvLJNjc/hqdefault.jpg",
+      "duration": "PT6M15S",
+      "publishedAt": "2026-07-24T04:00:17Z",
+      "region": "BR"
+    },
+    {
       "id": "pHiTt9V1uA4",
       "title": "Heitor Santos - Noite Fracassada (AGONIA DO HS EM CAPELA AO VIVO)",
       "channelTitle": "Heitor Santos",
@@ -1724,12 +1751,12 @@
       "region": "BR"
     },
     {
-      "id": "sPLS1wmQvfE",
-      "title": "SET DO JAPA NK",
-      "channelTitle": "Modo Jet By Jet Music Group",
-      "thumbnail": "https://i.ytimg.com/vi/sPLS1wmQvfE/hqdefault.jpg",
-      "duration": "PT7M16S",
-      "publishedAt": "2026-07-14T20:09:03Z",
+      "id": "zQM18yEz42Q",
+      "title": "Agindo Diferente | Eliã Oliveira (ao vivo)",
+      "channelTitle": "Eliã Oliveira",
+      "thumbnail": "https://i.ytimg.com/vi/zQM18yEz42Q/hqdefault.jpg",
+      "duration": "PT5M22S",
+      "publishedAt": "2026-07-30T15:00:06Z",
       "region": "BR"
     },
     {
@@ -1751,12 +1778,21 @@
       "region": "BR"
     },
     {
-      "id": "oe-bhvLJNjc",
-      "title": "Foreigner - I Want To Know What Love Is (Live From Ellis Island) (Official Music Video)",
-      "channelTitle": "ForeignerVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/oe-bhvLJNjc/hqdefault.jpg",
-      "duration": "PT6M15S",
-      "publishedAt": "2026-07-24T04:00:17Z",
+      "id": "sPLS1wmQvfE",
+      "title": "SET DO JAPA NK",
+      "channelTitle": "Modo Jet By Jet Music Group",
+      "thumbnail": "https://i.ytimg.com/vi/sPLS1wmQvfE/hqdefault.jpg",
+      "duration": "PT7M16S",
+      "publishedAt": "2026-07-14T20:09:03Z",
+      "region": "BR"
+    },
+    {
+      "id": "u7dnM4i9Tsg",
+      "title": "Bielzin ft. MC Poze do Rodo, DJ DAVI DOGDOG - Obra de arte",
+      "channelTitle": "Bielzin",
+      "thumbnail": "https://i.ytimg.com/vi/u7dnM4i9Tsg/hqdefault.jpg",
+      "duration": "PT2M43S",
+      "publishedAt": "2026-07-29T00:00:06Z",
       "region": "BR"
     },
     {
@@ -1769,75 +1805,12 @@
       "region": "BR"
     },
     {
-      "id": "709FWN10F9M",
-      "title": "Aprendendo a Imitar - Música Infantil",
-      "channelTitle": "Clube do Pititico",
-      "thumbnail": "https://i.ytimg.com/vi/709FWN10F9M/hqdefault.jpg",
-      "duration": "PT3M2S",
-      "publishedAt": "2026-07-16T10:00:37Z",
-      "region": "BR"
-    },
-    {
-      "id": "2aoUnXHlEuw",
-      "title": "TREM DAS BARBIE - MCs J9, Don Juan,Ryan SP, Meno K, IG, Alan JR, Luuky,Menor Richard (Clipe Oficial)",
-      "channelTitle": "Mc J9",
-      "thumbnail": "https://i.ytimg.com/vi/2aoUnXHlEuw/hqdefault.jpg",
-      "duration": "PT8M25S",
-      "publishedAt": "2026-07-26T15:00:06Z",
-      "region": "BR"
-    },
-    {
-      "id": "GEk4jHwfFTA",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/GEk4jHwfFTA/hqdefault.jpg",
-      "duration": "PT3M27S",
-      "publishedAt": "2026-07-19T04:00:02Z",
-      "region": "BR"
-    },
-    {
-      "id": "Yu6-qSdG7DQ",
-      "title": "SOLINHO DO DESMANTELO - Allê No Beat - Forró Cachorro",
-      "channelTitle": "Allê No Beat",
-      "thumbnail": "https://i.ytimg.com/vi/Yu6-qSdG7DQ/hqdefault.jpg",
-      "duration": "PT2M1S",
-      "publishedAt": "2026-07-24T15:00:33Z",
-      "region": "BR"
-    },
-    {
-      "id": "m7k9UMcHbr0",
-      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "publishedAt": "2026-07-24T03:59:06Z",
-      "region": "MX"
-    },
-    {
-      "id": "B1lP7H3hmZg",
-      "title": "Eden Muñoz, Alfredo Olivas - Recuerdos en Común (Video Oficial)",
-      "channelTitle": "edenmunozVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/B1lP7H3hmZg/hqdefault.jpg",
-      "duration": "PT3M40S",
-      "publishedAt": "2026-07-24T00:00:16Z",
-      "region": "MX"
-    },
-    {
-      "id": "5bR_ZcXMzP4",
-      "title": "Fuerza Regida, Manuel Turizo - UNA CERVEZA (Letra/Lyrics) | \"¿qué estás haciendo?\"",
-      "channelTitle": "jostland.",
-      "thumbnail": "https://i.ytimg.com/vi/5bR_ZcXMzP4/hqdefault.jpg",
-      "duration": "PT4M40S",
-      "publishedAt": "2026-07-22T17:34:50Z",
-      "region": "MX"
-    },
-    {
-      "id": "i2Lvt93BPpM",
-      "title": "Grupo Firme - Vuelve (Video Oficial)",
-      "channelTitle": "Grupo Firme",
-      "thumbnail": "https://i.ytimg.com/vi/i2Lvt93BPpM/hqdefault.jpg",
-      "duration": "PT2M56S",
-      "publishedAt": "2026-07-24T00:00:06Z",
+      "id": "tdS3ijuqxW4",
+      "title": "Todo Lo Fue",
+      "channelTitle": "Lenin Ramirez - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/tdS3ijuqxW4/hqdefault.jpg",
+      "duration": "PT3M13S",
+      "publishedAt": "2026-07-29T22:07:16Z",
       "region": "MX"
     },
     {
@@ -1850,12 +1823,57 @@
       "region": "MX"
     },
     {
-      "id": "ypqZr2jSRmE",
-      "title": "Ganas de Volver Amar",
-      "channelTitle": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ypqZr2jSRmE/hqdefault.jpg",
-      "duration": "PT3M30S",
-      "publishedAt": "2026-07-17T16:17:05Z",
+      "id": "OrFojJ6vj7k",
+      "title": "Polvo Rosita",
+      "channelTitle": "Lenin Ramirez - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/OrFojJ6vj7k/hqdefault.jpg",
+      "duration": "PT2M40S",
+      "publishedAt": "2026-07-29T22:02:35Z",
+      "region": "MX"
+    },
+    {
+      "id": "B1lP7H3hmZg",
+      "title": "Eden Muñoz, Alfredo Olivas - Recuerdos en Común (Video Oficial)",
+      "channelTitle": "edenmunozVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/B1lP7H3hmZg/hqdefault.jpg",
+      "duration": "PT3M40S",
+      "publishedAt": "2026-07-24T00:00:16Z",
+      "region": "MX"
+    },
+    {
+      "id": "m7k9UMcHbr0",
+      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+      "channelTitle": "HYBE LABELS",
+      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
+      "duration": "PT3M11S",
+      "publishedAt": "2026-07-24T03:59:06Z",
+      "region": "MX"
+    },
+    {
+      "id": "5bR_ZcXMzP4",
+      "title": "Fuerza Regida, Manuel Turizo - UNA CERVEZA (Letra/Lyrics) | \"¿qué estás haciendo?\"",
+      "channelTitle": "jostland.",
+      "thumbnail": "https://i.ytimg.com/vi/5bR_ZcXMzP4/hqdefault.jpg",
+      "duration": "PT4M40S",
+      "publishedAt": "2026-07-22T17:34:50Z",
+      "region": "MX"
+    },
+    {
+      "id": "oM-03AsbwYE",
+      "title": "Plan B — Es un Secreto (Letra/Lyrics)",
+      "channelTitle": "Richie Classics",
+      "thumbnail": "https://i.ytimg.com/vi/oM-03AsbwYE/hqdefault.jpg",
+      "duration": "PT3M11S",
+      "publishedAt": "2026-07-24T20:22:01Z",
+      "region": "MX"
+    },
+    {
+      "id": "i2Lvt93BPpM",
+      "title": "Grupo Firme - Vuelve (Video Oficial)",
+      "channelTitle": "Grupo Firme",
+      "thumbnail": "https://i.ytimg.com/vi/i2Lvt93BPpM/hqdefault.jpg",
+      "duration": "PT2M56S",
+      "publishedAt": "2026-07-24T00:00:06Z",
       "region": "MX"
     },
     {
@@ -1865,6 +1883,33 @@
       "thumbnail": "https://i.ytimg.com/vi/V7V48KoZto4/hqdefault.jpg",
       "duration": "PT2M32S",
       "publishedAt": "2026-07-23T12:03:49Z",
+      "region": "MX"
+    },
+    {
+      "id": "hDVgQ-ScvUM",
+      "title": "Todo De Ti",
+      "channelTitle": "Rauw Alejandro - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/hDVgQ-ScvUM/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-30T00:00:05Z",
+      "region": "MX"
+    },
+    {
+      "id": "ypqZr2jSRmE",
+      "title": "Ganas de Volver Amar",
+      "channelTitle": "Release - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ypqZr2jSRmE/hqdefault.jpg",
+      "duration": "PT3M30S",
+      "publishedAt": "2026-07-17T16:17:05Z",
+      "region": "MX"
+    },
+    {
+      "id": "mikKKqSHFMA",
+      "title": "A Corazón Abierto",
+      "channelTitle": "El Trono De Mexico - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/mikKKqSHFMA/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-29T20:20:13Z",
       "region": "MX"
     },
     {
@@ -1895,42 +1940,6 @@
       "region": "MX"
     },
     {
-      "id": "1P_nR-Gdqsc",
-      "title": "Los Caminantes - Dos Cartas y una Flor | Letra",
-      "channelTitle": "sunday",
-      "thumbnail": "https://i.ytimg.com/vi/1P_nR-Gdqsc/hqdefault.jpg",
-      "duration": "PT3M33S",
-      "publishedAt": "2026-07-21T20:00:08Z",
-      "region": "MX"
-    },
-    {
-      "id": "Z9sej_xyKVU",
-      "title": "ES LA HORA ES LA HORA 🐸 | Canciones Infantiles para Bailar 💃 Música para Niños y Niñas",
-      "channelTitle": "LAS AVENTURAS DE GABY Y SARAH - VIDEOS INFANTILES ",
-      "thumbnail": "https://i.ytimg.com/vi/Z9sej_xyKVU/hqdefault.jpg",
-      "duration": "PT9M14S",
-      "publishedAt": "2026-07-25T17:10:26Z",
-      "region": "MX"
-    },
-    {
-      "id": "48wivWZ7Rr0",
-      "title": "Maná - En El Muelle de San Blas (letra | lyrics)",
-      "channelTitle": "Xabian.j",
-      "thumbnail": "https://i.ytimg.com/vi/48wivWZ7Rr0/hqdefault.jpg",
-      "duration": "PT5M54S",
-      "publishedAt": "2026-07-25T21:55:06Z",
-      "region": "MX"
-    },
-    {
-      "id": "KGCkchk-BaA",
-      "title": "Natanael Cano x Gabito Ballesteros x Adriel Favela - Pa La Maña [Official Video]",
-      "channelTitle": "Natanael Cano",
-      "thumbnail": "https://i.ytimg.com/vi/KGCkchk-BaA/hqdefault.jpg",
-      "duration": "PT3M1S",
-      "publishedAt": "2026-07-24T00:00:06Z",
-      "region": "MX"
-    },
-    {
       "id": "Fu0w8u4zq38",
       "title": "Reik — Ya Me Enteré (Letra)",
       "channelTitle": "Richie Lyrics",
@@ -1940,66 +1949,57 @@
       "region": "MX"
     },
     {
-      "id": "_z2lVexmcG8",
-      "title": "Los Del Roble - Gabito Ballesteros - El Gerry - El Peor de mis Fracasos",
-      "channelTitle": "MUSIC VIP",
-      "thumbnail": "https://i.ytimg.com/vi/_z2lVexmcG8/hqdefault.jpg",
-      "duration": "PT3M46S",
-      "publishedAt": "2026-07-14T18:00:06Z",
+      "id": "7UllPaCRUCs",
+      "title": "Yo y La Luna",
+      "channelTitle": "Herencia De Grandes - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/7UllPaCRUCs/hqdefault.jpg",
+      "duration": "PT3M8S",
+      "publishedAt": "2026-07-30T04:02:13Z",
       "region": "MX"
     },
     {
-      "id": "kLbvfZtR2p8",
-      "title": "Maluma - Hawái(Lyrics/Letra)",
-      "channelTitle": "Moda Argentina",
-      "thumbnail": "https://i.ytimg.com/vi/kLbvfZtR2p8/hqdefault.jpg",
-      "duration": "PT3M19S",
-      "publishedAt": "2026-07-23T14:32:21Z",
-      "region": "MX"
-    },
-    {
-      "id": "VIGi4az5XZQ",
-      "title": "Espinoza Paz - El Próximo Viernes (Letra)",
+      "id": "P09MQcBjmOM",
+      "title": "Oscar Maydon x Neton Vega - Amigos? No. (Letra)",
       "channelTitle": "Keller MX",
-      "thumbnail": "https://i.ytimg.com/vi/VIGi4az5XZQ/hqdefault.jpg",
-      "duration": "PT4M11S",
-      "publishedAt": "2026-07-19T18:00:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/P09MQcBjmOM/hqdefault.jpg",
+      "duration": "PT3M47S",
+      "publishedAt": "2026-07-24T21:30:38Z",
       "region": "MX"
     },
     {
-      "id": "OTImlQYTCag",
-      "title": "MATADORA",
-      "channelTitle": "KAROL G - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/OTImlQYTCag/hqdefault.jpg",
-      "duration": "PT2M25S",
-      "publishedAt": "2026-07-25T03:00:01Z",
+      "id": "vAK90UWS_78",
+      "title": "Julión Álvarez y su Norteño Banda - Llévala A La Luna (VIDEO LYRIC)",
+      "channelTitle": "Los Pasos de Julion ",
+      "thumbnail": "https://i.ytimg.com/vi/vAK90UWS_78/hqdefault.jpg",
+      "duration": "PT2M45S",
+      "publishedAt": "2026-07-31T00:00:06Z",
       "region": "MX"
     },
     {
-      "id": "GEk4jHwfFTA",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/GEk4jHwfFTA/hqdefault.jpg",
-      "duration": "PT3M27S",
-      "publishedAt": "2026-07-19T04:00:02Z",
+      "id": "afSgBNwmZrQ",
+      "title": "Ariana Grande - petal (official music video)",
+      "channelTitle": "ArianaGrandeVevo",
+      "thumbnail": "https://i.ytimg.com/vi/afSgBNwmZrQ/hqdefault.jpg",
+      "duration": "PT6M51S",
+      "publishedAt": "2026-07-31T15:00:06Z",
       "region": "MX"
     },
     {
-      "id": "fion4_gEVzc",
-      "title": "Lagu Anak Anak - Kring Kring Ada Sepeda - Lagu Anak & Balita Paling Viral Populer Sepanjang Masa",
-      "channelTitle": "Melodi Junior",
-      "thumbnail": "https://i.ytimg.com/vi/fion4_gEVzc/hqdefault.jpg",
-      "duration": "PT4M2S",
-      "publishedAt": "2026-07-20T07:57:54Z",
+      "id": "eIrS1_47Eng",
+      "title": "no na - honk! (Official Music Video)",
+      "channelTitle": "no na",
+      "thumbnail": "https://i.ytimg.com/vi/eIrS1_47Eng/hqdefault.jpg",
+      "duration": "PT2M16S",
+      "publishedAt": "2026-07-31T04:00:01Z",
       "region": "ID"
     },
     {
-      "id": "_IT83Y_HcAw",
-      "title": "JENNIE - Less than a Lover (Official Video)",
-      "channelTitle": "JennieRubyJaneVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
-      "duration": "PT3M39S",
-      "publishedAt": "2026-07-24T04:00:05Z",
+      "id": "lAkWjiaQSSQ",
+      "title": "Katy Perry - The One That Got Away (Lyrics)",
+      "channelTitle": "Arcade Music",
+      "thumbnail": "https://i.ytimg.com/vi/lAkWjiaQSSQ/hqdefault.jpg",
+      "duration": "PT3M48S",
+      "publishedAt": "2026-07-29T15:05:31Z",
       "region": "ID"
     },
     {
@@ -2012,12 +2012,48 @@
       "region": "ID"
     },
     {
+      "id": "_IT83Y_HcAw",
+      "title": "JENNIE - Less than a Lover (Official Video)",
+      "channelTitle": "JennieRubyJaneVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/_IT83Y_HcAw/hqdefault.jpg",
+      "duration": "PT3M39S",
+      "publishedAt": "2026-07-24T04:00:05Z",
+      "region": "ID"
+    },
+    {
+      "id": "fion4_gEVzc",
+      "title": "Lagu Anak Anak - Kring Kring Ada Sepeda - Lagu Anak & Balita Paling Viral Populer Sepanjang Masa",
+      "channelTitle": "Melodi Junior",
+      "thumbnail": "https://i.ytimg.com/vi/fion4_gEVzc/hqdefault.jpg",
+      "duration": "PT4M2S",
+      "publishedAt": "2026-07-20T07:57:54Z",
+      "region": "ID"
+    },
+    {
       "id": "RswcnKZmnbk",
       "title": "eńau & Momo - Sudah Tahu Tuhan Kita Berbeda (Official Lyric Video)",
       "channelTitle": "Aku eńau",
       "thumbnail": "https://i.ytimg.com/vi/RswcnKZmnbk/hqdefault.jpg",
       "duration": "PT3M57S",
       "publishedAt": "2026-07-27T17:00:06Z",
+      "region": "ID"
+    },
+    {
+      "id": "FXO7wHRy4uM",
+      "title": "For Revenge - Penyangkalan (Lyrics)",
+      "channelTitle": "daydream.",
+      "thumbnail": "https://i.ytimg.com/vi/FXO7wHRy4uM/hqdefault.jpg",
+      "duration": "PT4M1S",
+      "publishedAt": "2026-07-24T16:30:23Z",
+      "region": "ID"
+    },
+    {
+      "id": "IMtdWKwFlv0",
+      "title": "Tiara Andini - Tulang dan Nadi (Official Visualizer)",
+      "channelTitle": "Tiara Andini",
+      "thumbnail": "https://i.ytimg.com/vi/IMtdWKwFlv0/hqdefault.jpg",
+      "duration": "PT4M29S",
+      "publishedAt": "2026-07-30T17:00:07Z",
       "region": "ID"
     },
     {
@@ -2030,24 +2066,6 @@
       "region": "ID"
     },
     {
-      "id": "m7k9UMcHbr0",
-      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "publishedAt": "2026-07-24T03:59:06Z",
-      "region": "ID"
-    },
-    {
-      "id": "gqObUXU4uLo",
-      "title": "For Revenge - Penyangkalan (Lyrics)",
-      "channelTitle": "Aura Melodies",
-      "thumbnail": "https://i.ytimg.com/vi/gqObUXU4uLo/hqdefault.jpg",
-      "duration": "PT4M22S",
-      "publishedAt": "2026-07-20T08:30:08Z",
-      "region": "ID"
-    },
-    {
       "id": "xSzBhQ9jmRk",
       "title": "Akbar Chalay, Mingse - Astaga Bercanda (Lyrics)",
       "channelTitle": "Pizza Music",
@@ -2057,12 +2075,21 @@
       "region": "ID"
     },
     {
-      "id": "3XGPe47Mui8",
-      "title": "Aku Tak Berarti Bagimu",
-      "channelTitle": "Release - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/3XGPe47Mui8/hqdefault.jpg",
-      "duration": "PT5M15S",
-      "publishedAt": "2026-07-23T09:29:29Z",
+      "id": "m7k9UMcHbr0",
+      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+      "channelTitle": "HYBE LABELS",
+      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
+      "duration": "PT3M11S",
+      "publishedAt": "2026-07-24T03:59:06Z",
+      "region": "ID"
+    },
+    {
+      "id": "OfYwS6cnlCk",
+      "title": "eńau feat Ari Lesmana - Sesi Potret  | Lirik",
+      "channelTitle": "DICARI MUSIC",
+      "thumbnail": "https://i.ytimg.com/vi/OfYwS6cnlCk/hqdefault.jpg",
+      "duration": "PT3M57S",
+      "publishedAt": "2026-07-28T23:00:08Z",
       "region": "ID"
     },
     {
@@ -2075,93 +2102,66 @@
       "region": "ID"
     },
     {
+      "id": "u9_zOZRRoBs",
+      "title": "Rizky Febian, Adrian Khalif, Mahalini - Alamak | Live Session",
+      "channelTitle": "Rizky Febian",
+      "thumbnail": "https://i.ytimg.com/vi/u9_zOZRRoBs/hqdefault.jpg",
+      "duration": "PT3M33S",
+      "publishedAt": "2026-07-30T12:30:08Z",
+      "region": "ID"
+    },
+    {
+      "id": "3XGPe47Mui8",
+      "title": "Aku Tak Berarti Bagimu",
+      "channelTitle": "Release - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/3XGPe47Mui8/hqdefault.jpg",
+      "duration": "PT5M15S",
+      "publishedAt": "2026-07-23T09:29:29Z",
+      "region": "ID"
+    },
+    {
+      "id": "ew9eALk1ZKA",
+      "title": "Utara - Selatan",
+      "channelTitle": "Ungu - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/ew9eALk1ZKA/hqdefault.jpg",
+      "duration": "PT4M1S",
+      "publishedAt": "2026-07-30T17:03:00Z",
+      "region": "ID"
+    },
+    {
+      "id": "h7ITAdTxdxM",
+      "title": "CORTIS (코르티스) ‘MOTION (feat. Juicy J)’ Official Visualizer",
+      "channelTitle": "HYBE LABELS",
+      "thumbnail": "https://i.ytimg.com/vi/h7ITAdTxdxM/hqdefault.jpg",
+      "duration": "PT2M38S",
+      "publishedAt": "2026-07-31T03:59:59Z",
+      "region": "ID"
+    },
+    {
+      "id": "hfpCKgqAbxs",
+      "title": "SUMANDHING - LAILA AYU FT IRWAN KRISDIYANTO - LIVE SESETAN BALI - SIMPATIK MUSIC",
+      "channelTitle": "SIMPATIK MUSIC OFFICIAL",
+      "thumbnail": "https://i.ytimg.com/vi/hfpCKgqAbxs/hqdefault.jpg",
+      "duration": "PT6M55S",
+      "publishedAt": "2026-07-29T08:15:25Z",
+      "region": "ID"
+    },
+    {
+      "id": "8_y6w1V9PXs",
+      "title": "I Miss You Every Brand New Day (From \"Spider-Man: Brand New Day\" Movie) (Official Music Video)",
+      "channelTitle": "FORREVENGEVEVO",
+      "thumbnail": "https://i.ytimg.com/vi/8_y6w1V9PXs/hqdefault.jpg",
+      "duration": "PT4M21S",
+      "publishedAt": "2026-07-28T14:00:06Z",
+      "region": "ID"
+    },
+    {
       "id": "inxzQt78lOk",
       "title": "aespa エスパ 'KISS N TELL' MV",
       "channelTitle": "SMTOWN",
       "thumbnail": "https://i.ytimg.com/vi/inxzQt78lOk/hqdefault.jpg",
       "duration": "PT3M10S",
       "publishedAt": "2026-07-23T14:59:06Z",
-      "region": "ID"
-    },
-    {
-      "id": "GEk4jHwfFTA",
-      "title": "BTS (방탄소년단) ‘NORMAL’ Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/GEk4jHwfFTA/hqdefault.jpg",
-      "duration": "PT3M27S",
-      "publishedAt": "2026-07-19T04:00:02Z",
-      "region": "ID"
-    },
-    {
-      "id": "fxOUpGhsKuY",
-      "title": "Aku Tak Berarti Bagimu",
-      "channelTitle": "Puteri Barat - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/fxOUpGhsKuY/hqdefault.jpg",
-      "duration": "PT5M44S",
-      "publishedAt": "2026-07-23T03:21:13Z",
-      "region": "ID"
-    },
-    {
-      "id": "SOY5kWcvWcY",
-      "title": "eńau feat. Ari Lesmana - Sesi Potret | Lirik",
-      "channelTitle": "HX Radio",
-      "thumbnail": "https://i.ytimg.com/vi/SOY5kWcvWcY/hqdefault.jpg",
-      "duration": "PT4M2S",
-      "publishedAt": "2026-07-23T10:01:09Z",
-      "region": "ID"
-    },
-    {
-      "id": "Ecv71-76-ho",
-      "title": "LAILA AYU - MUTIARA | DARI UJUNG KUKU HINGGA UJUNG RAMBUTKU (OFFICIAL MUSIC VIDEO ANEKA SAFARI)",
-      "channelTitle": "Aneka Safari Records",
-      "thumbnail": "https://i.ytimg.com/vi/Ecv71-76-ho/hqdefault.jpg",
-      "duration": "PT6M52S",
-      "publishedAt": "2026-07-21T05:00:06Z",
-      "region": "ID"
-    },
-    {
-      "id": "HgRsmSyy_Fw",
-      "title": "MUTIARA - Difarina Indra Adella Ft. Fendik Adella - OM ADELLA",
-      "channelTitle": "Henny Adella",
-      "thumbnail": "https://i.ytimg.com/vi/HgRsmSyy_Fw/hqdefault.jpg",
-      "duration": "PT6M38S",
-      "publishedAt": "2026-07-16T05:15:06Z",
-      "region": "ID"
-    },
-    {
-      "id": "Jy4Bt1I9RxY",
-      "title": "Lauv - I Like Me Better (Lyrics)",
-      "channelTitle": "7clouds Tropical",
-      "thumbnail": "https://i.ytimg.com/vi/Jy4Bt1I9RxY/hqdefault.jpg",
-      "duration": "PT3M18S",
-      "publishedAt": "2026-07-22T18:35:49Z",
-      "region": "ID"
-    },
-    {
-      "id": "khf3tv8xU1A",
-      "title": "Ari Lasso - Hampa || Ultra Video Lyric",
-      "channelTitle": "Ultra Lyric",
-      "thumbnail": "https://i.ytimg.com/vi/khf3tv8xU1A/hqdefault.jpg",
-      "duration": "PT4M21S",
-      "publishedAt": "2026-07-16T23:00:26Z",
-      "region": "ID"
-    },
-    {
-      "id": "qtqcBTD7H8g",
-      "title": "Lumpur dan Berlian - Ipank | Duet Slowrock Melayu Paling Kecewa Bang Brokey ft Syariva",
-      "channelTitle": "Bang Brokey",
-      "thumbnail": "https://i.ytimg.com/vi/qtqcBTD7H8g/hqdefault.jpg",
-      "duration": "PT6M6S",
-      "publishedAt": "2026-07-22T11:34:19Z",
-      "region": "ID"
-    },
-    {
-      "id": "dA3U_R2DD0A",
-      "title": "Backstreet Boys - Shape Of My Heart (Lyrics)",
-      "channelTitle": "Pulse Pop",
-      "thumbnail": "https://i.ytimg.com/vi/dA3U_R2DD0A/hqdefault.jpg",
-      "duration": "PT3M51S",
-      "publishedAt": "2026-07-22T17:00:24Z",
       "region": "ID"
     },
     {
@@ -2219,12 +2219,12 @@
       "region": "PH"
     },
     {
-      "id": "vOfyxPRunFM",
-      "title": "Animal",
-      "channelTitle": "KATSEYE - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/vOfyxPRunFM/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-24T04:00:11Z",
+      "id": "UKMLprkoG_Q",
+      "title": "Shawn Mendes - Treat You Better (Lyrics)",
+      "channelTitle": "Unique Vibes",
+      "thumbnail": "https://i.ytimg.com/vi/UKMLprkoG_Q/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-27T18:49:16Z",
       "region": "PH"
     },
     {
@@ -2246,12 +2246,12 @@
       "region": "PH"
     },
     {
-      "id": "UKMLprkoG_Q",
-      "title": "Shawn Mendes - Treat You Better (Lyrics)",
-      "channelTitle": "Unique Vibes",
-      "thumbnail": "https://i.ytimg.com/vi/UKMLprkoG_Q/hqdefault.jpg",
-      "duration": "PT3M20S",
-      "publishedAt": "2026-07-27T18:49:16Z",
+      "id": "lAkWjiaQSSQ",
+      "title": "Katy Perry - The One That Got Away (Lyrics)",
+      "channelTitle": "Arcade Music",
+      "thumbnail": "https://i.ytimg.com/vi/lAkWjiaQSSQ/hqdefault.jpg",
+      "duration": "PT3M48S",
+      "publishedAt": "2026-07-29T15:05:31Z",
       "region": "PH"
     },
     {
@@ -2273,39 +2273,21 @@
       "region": "PH"
     },
     {
-      "id": "bbOAODJZuBo",
-      "title": "Refrain (Cover) - Sarah Geronimo and Daddy Delfin Geronimo [Live Performance Video]",
-      "channelTitle": "Sarah Geronimo",
-      "thumbnail": "https://i.ytimg.com/vi/bbOAODJZuBo/hqdefault.jpg",
-      "duration": "PT4M5S",
-      "publishedAt": "2026-07-25T09:30:06Z",
-      "region": "PH"
-    },
-    {
-      "id": "lAkWjiaQSSQ",
-      "title": "Katy Perry - The One That Got Away (Lyrics)",
-      "channelTitle": "Arcade Music",
-      "thumbnail": "https://i.ytimg.com/vi/lAkWjiaQSSQ/hqdefault.jpg",
-      "duration": "PT3M48S",
-      "publishedAt": "2026-07-29T15:05:31Z",
-      "region": "PH"
-    },
-    {
-      "id": "TUyc71kxc4g",
-      "title": "Maroon 5 - Beautiful Goodbye (Lyrics)",
-      "channelTitle": "Unique Sound",
-      "thumbnail": "https://i.ytimg.com/vi/TUyc71kxc4g/hqdefault.jpg",
-      "duration": "PT4M16S",
-      "publishedAt": "2026-07-26T11:30:13Z",
-      "region": "PH"
-    },
-    {
       "id": "gbqbPou5BMI",
       "title": "I Want to Know What Love Is (Classic Country)",
       "channelTitle": "MATRIX - Topic",
       "thumbnail": "https://i.ytimg.com/vi/gbqbPou5BMI/hqdefault.jpg",
       "duration": "PT5M3S",
       "publishedAt": "2026-07-27T10:01:30Z",
+      "region": "PH"
+    },
+    {
+      "id": "bbOAODJZuBo",
+      "title": "Refrain (Cover) - Sarah Geronimo and Daddy Delfin Geronimo [Live Performance Video]",
+      "channelTitle": "Sarah Geronimo",
+      "thumbnail": "https://i.ytimg.com/vi/bbOAODJZuBo/hqdefault.jpg",
+      "duration": "PT4M5S",
+      "publishedAt": "2026-07-25T09:30:06Z",
       "region": "PH"
     },
     {
@@ -2336,12 +2318,30 @@
       "region": "PH"
     },
     {
+      "id": "iSpt_Fn4S6I",
+      "title": "YOUNGSTA - PANIS KA NA (Official Music Video)",
+      "channelTitle": "YOUNGSTA",
+      "thumbnail": "https://i.ytimg.com/vi/iSpt_Fn4S6I/hqdefault.jpg",
+      "duration": "PT4M23S",
+      "publishedAt": "2026-07-25T10:15:54Z",
+      "region": "PH"
+    },
+    {
       "id": "ajF2m-NmyI8",
       "title": "Ben&Ben - Saranggola (Lyrics)",
       "channelTitle": "DopeMusic",
       "thumbnail": "https://i.ytimg.com/vi/ajF2m-NmyI8/hqdefault.jpg",
       "duration": "PT4M27S",
       "publishedAt": "2026-07-23T13:00:21Z",
+      "region": "PH"
+    },
+    {
+      "id": "r8MoyWQCOAM",
+      "title": "SB19 'LAWLESS' Lyric Video",
+      "channelTitle": "SB19 Official",
+      "thumbnail": "https://i.ytimg.com/vi/r8MoyWQCOAM/hqdefault.jpg",
+      "duration": "PT3M19S",
+      "publishedAt": "2026-07-30T16:01:11Z",
       "region": "PH"
     },
     {
@@ -2363,21 +2363,21 @@
       "region": "TH"
     },
     {
-      "id": "34wnf8276O4",
-      "title": "ภวังค์จิต - ปราง ปรางทิพย์ (Original by PMC ปู่จ๋าน ลองไมค์) | Ost. คำสารภาพของหมอผี [Official MV]",
-      "channelTitle": "MACHg",
-      "thumbnail": "https://i.ytimg.com/vi/34wnf8276O4/hqdefault.jpg",
-      "duration": "PT5M17S",
-      "publishedAt": "2026-07-23T12:01:14Z",
-      "region": "TH"
-    },
-    {
       "id": "23cipSExADA",
       "title": "เพราะพี่รักจริง - หนึ่ง บีเคแบนด์ [OFFICIAL MV]",
       "channelTitle": "iboom music",
       "thumbnail": "https://i.ytimg.com/vi/23cipSExADA/hqdefault.jpg",
       "duration": "PT4M4S",
       "publishedAt": "2026-07-20T07:24:31Z",
+      "region": "TH"
+    },
+    {
+      "id": "34wnf8276O4",
+      "title": "ภวังค์จิต - ปราง ปรางทิพย์ (Original by PMC ปู่จ๋าน ลองไมค์) | Ost. คำสารภาพของหมอผี [Official MV]",
+      "channelTitle": "MACHg",
+      "thumbnail": "https://i.ytimg.com/vi/34wnf8276O4/hqdefault.jpg",
+      "duration": "PT5M17S",
+      "publishedAt": "2026-07-23T12:01:14Z",
       "region": "TH"
     },
     {
@@ -2417,12 +2417,12 @@
       "region": "TH"
     },
     {
-      "id": "h-WZwknlpEA",
-      "title": "ไหนว่าจะค่อย",
-      "channelTitle": "Ewai Rock Metal - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/h-WZwknlpEA/hqdefault.jpg",
-      "duration": "PT3M48S",
-      "publishedAt": "2026-07-16T10:04:00Z",
+      "id": "E-xqEPPyciw",
+      "title": "ทิ้งกันไม่ได้หรอก - แจ๊ส สปุ๊กนิค ปาปิยอง กุ๊กกุ๊ก [JSPKK] ft.เกมส์ สุจิตรา | Official MV",
+      "channelTitle": "แจ๊ส สปุ๊กนิค ปาปิยอง กุ๊กกุ๊ก",
+      "thumbnail": "https://i.ytimg.com/vi/E-xqEPPyciw/hqdefault.jpg",
+      "duration": "PT5M59S",
+      "publishedAt": "2026-07-30T11:19:33Z",
       "region": "TH"
     },
     {
@@ -2435,12 +2435,12 @@
       "region": "TH"
     },
     {
-      "id": "5UqInlWu6Zg",
-      "title": "ขาดความอบอุ่น - FREEHAND (genie Verse Vol.1)「Official MV」",
-      "channelTitle": "Genierock",
-      "thumbnail": "https://i.ytimg.com/vi/5UqInlWu6Zg/hqdefault.jpg",
-      "duration": "PT4M16S",
-      "publishedAt": "2026-07-21T12:00:45Z",
+      "id": "h-WZwknlpEA",
+      "title": "ไหนว่าจะค่อย",
+      "channelTitle": "Ewai Rock Metal - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/h-WZwknlpEA/hqdefault.jpg",
+      "duration": "PT3M48S",
+      "publishedAt": "2026-07-16T10:04:00Z",
       "region": "TH"
     },
     {
@@ -2453,39 +2453,12 @@
       "region": "TH"
     },
     {
-      "id": "U0ags2mvWtc",
-      "title": "น้ำตาหล่นที่โคราช",
-      "channelTitle": "Ajik Yanto - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/U0ags2mvWtc/hqdefault.jpg",
-      "duration": "PT3M35S",
-      "publishedAt": "2026-07-18T10:05:30Z",
-      "region": "TH"
-    },
-    {
       "id": "TkvvBBSsNzg",
       "title": "ที่พึ่งคนไกล",
       "channelTitle": "Deni Prayogi - Topic",
       "thumbnail": "https://i.ytimg.com/vi/TkvvBBSsNzg/hqdefault.jpg",
       "duration": "PT5M12S",
       "publishedAt": "2026-07-25T10:01:54Z",
-      "region": "TH"
-    },
-    {
-      "id": "E-xqEPPyciw",
-      "title": "ทิ้งกันไม่ได้หรอก - แจ๊ส สปุ๊กนิค ปาปิยอง กุ๊กกุ๊ก [JSPKK] ft.เกมส์ สุจิตรา | Official MV",
-      "channelTitle": "แจ๊ส สปุ๊กนิค ปาปิยอง กุ๊กกุ๊ก",
-      "thumbnail": "https://i.ytimg.com/vi/E-xqEPPyciw/hqdefault.jpg",
-      "duration": "PT5M59S",
-      "publishedAt": "2026-07-30T11:19:33Z",
-      "region": "TH"
-    },
-    {
-      "id": "0S04w0AI-Ec",
-      "title": "Miss Call - GOODMOOD (genie Verse Vol.1)「Official MV」",
-      "channelTitle": "Genierock",
-      "thumbnail": "https://i.ytimg.com/vi/0S04w0AI-Ec/hqdefault.jpg",
-      "duration": "PT3M49S",
-      "publishedAt": "2026-07-21T12:01:29Z",
       "region": "TH"
     },
     {
@@ -2498,6 +2471,15 @@
       "region": "TH"
     },
     {
+      "id": "5UqInlWu6Zg",
+      "title": "ขาดความอบอุ่น - FREEHAND (genie Verse Vol.1)「Official MV」",
+      "channelTitle": "Genierock",
+      "thumbnail": "https://i.ytimg.com/vi/5UqInlWu6Zg/hqdefault.jpg",
+      "duration": "PT4M16S",
+      "publishedAt": "2026-07-21T12:00:45Z",
+      "region": "TH"
+    },
+    {
       "id": "H2AbuWvYDXk",
       "title": "สิลืมเขาแล้วล่ะ - เน็ค นฤพล Feat. WanMai【OFFICIAL MV】",
       "channelTitle": "GRAMMY GOLD OFFICIAL",
@@ -2507,21 +2489,39 @@
       "region": "TH"
     },
     {
+      "id": "vjCO0DDGFio",
+      "title": "รักไม่ไหวแล้วโว้ย - โจอี้ ภูวศิษฐ์ (JOEY PHUWASIT)「Official MV」",
+      "channelTitle": "Genierock",
+      "thumbnail": "https://i.ytimg.com/vi/vjCO0DDGFio/hqdefault.jpg",
+      "duration": "PT3M45S",
+      "publishedAt": "2026-07-30T11:00:13Z",
+      "region": "TH"
+    },
+    {
+      "id": "U0ags2mvWtc",
+      "title": "น้ำตาหล่นที่โคราช",
+      "channelTitle": "Ajik Yanto - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/U0ags2mvWtc/hqdefault.jpg",
+      "duration": "PT3M35S",
+      "publishedAt": "2026-07-18T10:05:30Z",
+      "region": "TH"
+    },
+    {
+      "id": "0S04w0AI-Ec",
+      "title": "Miss Call - GOODMOOD (genie Verse Vol.1)「Official MV」",
+      "channelTitle": "Genierock",
+      "thumbnail": "https://i.ytimg.com/vi/0S04w0AI-Ec/hqdefault.jpg",
+      "duration": "PT3M49S",
+      "publishedAt": "2026-07-21T12:01:29Z",
+      "region": "TH"
+    },
+    {
       "id": "WivB_m52F1M",
       "title": "ถิ่มกันเวอร์ชั่นใหม่ - หนิงๆ คำพะนาง : ซองเดอ【Official MV】",
       "channelTitle": "หนิงๆ คําพะนาง Song de' OFFICIAL",
       "thumbnail": "https://i.ytimg.com/vi/WivB_m52F1M/hqdefault.jpg",
       "duration": "PT5M10S",
       "publishedAt": "2026-07-24T11:00:36Z",
-      "region": "TH"
-    },
-    {
-      "id": "93AtNWZT6z4",
-      "title": "วันที่ไม่มีจริง - Paper Planes (genie Verse Vol.1)「Official MV」",
-      "channelTitle": "Genierock",
-      "thumbnail": "https://i.ytimg.com/vi/93AtNWZT6z4/hqdefault.jpg",
-      "duration": "PT3M30S",
-      "publishedAt": "2026-07-21T12:00:06Z",
       "region": "TH"
     },
     {
@@ -2543,21 +2543,21 @@
       "region": "VN"
     },
     {
-      "id": "JQg0YvSqXO4",
-      "title": "CÓ GÌ ĐÂU MÀ CAY - CAPTAIN BOY, CoolKid, IVAN, XUÂN ĐỊNH KY, LEONSASH | TINH HÀ SAY HI [PERFORMANCE]",
-      "channelTitle": "Vie Channel - MUSIC",
-      "thumbnail": "https://i.ytimg.com/vi/JQg0YvSqXO4/hqdefault.jpg",
-      "duration": "PT5M22S",
-      "publishedAt": "2026-07-26T02:00:06Z",
-      "region": "VN"
-    },
-    {
       "id": "lK_KgArI2NA",
       "title": "LET ME GO | THƠM (Da LAB), VƯƠNG ANH TÚ, HOÀNG ROB, HOÀNG DŨNG, CHENG | ATVNCG 2026",
       "channelTitle": "YEAH1 MUSIC",
       "thumbnail": "https://i.ytimg.com/vi/lK_KgArI2NA/hqdefault.jpg",
       "duration": "PT5M24S",
       "publishedAt": "2026-07-26T05:00:06Z",
+      "region": "VN"
+    },
+    {
+      "id": "JQg0YvSqXO4",
+      "title": "CÓ GÌ ĐÂU MÀ CAY - CAPTAIN BOY, CoolKid, IVAN, XUÂN ĐỊNH KY, LEONSASH | TINH HÀ SAY HI [PERFORMANCE]",
+      "channelTitle": "Vie Channel - MUSIC",
+      "thumbnail": "https://i.ytimg.com/vi/JQg0YvSqXO4/hqdefault.jpg",
+      "duration": "PT5M22S",
+      "publishedAt": "2026-07-26T02:00:06Z",
       "region": "VN"
     },
     {
@@ -2696,12 +2696,12 @@
       "region": "VN"
     },
     {
-      "id": "fdFRy9zBdMo",
-      "title": "Kẻ Say Tình 2 - Quốc Thiên | Live Performance",
-      "channelTitle": "Quốc Thiên Official",
-      "thumbnail": "https://i.ytimg.com/vi/fdFRy9zBdMo/hqdefault.jpg",
-      "duration": "PT4M19S",
-      "publishedAt": "2026-07-15T13:00:06Z",
+      "id": "wczH8uzCNmo",
+      "title": "Thành Phố Buồn✨Ca Nhạc Rumba Hải Ngoại 1975 | Nhạc Trữ Tình Bolero Hay Nhất Mọi Thời Đại",
+      "channelTitle": "HL Media Music",
+      "thumbnail": "https://i.ytimg.com/vi/wczH8uzCNmo/hqdefault.jpg",
+      "duration": "PT5M58S",
+      "publishedAt": "2026-07-25T22:30:38Z",
       "region": "VN"
     },
     {
@@ -2736,7 +2736,7 @@
       "title": "Awarapan x Saiyaara - Mashup | Toh Phir Aao | Barbaad | Mustafa Zahid | Latest 4K Songs",
       "channelTitle": "Tanvir LUCKYY",
       "thumbnail": "https://i.ytimg.com/vi/k37j8BkWLrA/hqdefault.jpg",
-      "duration": "PT6M47S",
+      "duration": "PT3M42S",
       "publishedAt": "2026-07-23T14:43:13Z",
       "region": "PK"
     },
@@ -2777,21 +2777,21 @@
       "region": "PK"
     },
     {
+      "id": "ezoJgiD_zuY",
+      "title": "Dil Diyan Gallan (Lyrical Video) | B Praak | Gippy Grewal, Sargun Mehta | Latest Punjabi Songs 2026",
+      "channelTitle": "Moviebox Record Label",
+      "thumbnail": "https://i.ytimg.com/vi/ezoJgiD_zuY/hqdefault.jpg",
+      "duration": "PT3M20S",
+      "publishedAt": "2026-07-24T12:34:46Z",
+      "region": "PK"
+    },
+    {
       "id": "h1kihH0l8iQ",
       "title": "Tabaahi 🔥| Toxic (Hindi) | Rocking Star Yash, Kiara Advani, Tara Sutaria| Vishal Mishra, Raj Shekhar",
       "channelTitle": "Zee Music Company",
       "thumbnail": "https://i.ytimg.com/vi/h1kihH0l8iQ/hqdefault.jpg",
       "duration": "PT4M29S",
       "publishedAt": "2026-07-08T06:03:03Z",
-      "region": "PK"
-    },
-    {
-      "id": "MucyfTEc47I",
-      "title": "NAA PUSHDE - Fukra Insaan & Avneet Kaur | Saivi Fareed | Anshul Garg",
-      "channelTitle": "Desi Music Factory",
-      "thumbnail": "https://i.ytimg.com/vi/MucyfTEc47I/hqdefault.jpg",
-      "duration": "PT3M17S",
-      "publishedAt": "2026-07-10T05:30:02Z",
       "region": "PK"
     },
     {
@@ -2804,21 +2804,12 @@
       "region": "PK"
     },
     {
-      "id": "ezoJgiD_zuY",
-      "title": "Dil Diyan Gallan (Lyrical Video) | B Praak | Gippy Grewal, Sargun Mehta | Latest Punjabi Songs 2026",
-      "channelTitle": "Moviebox Record Label",
-      "thumbnail": "https://i.ytimg.com/vi/ezoJgiD_zuY/hqdefault.jpg",
-      "duration": "PT3M20S",
-      "publishedAt": "2026-07-24T12:34:46Z",
-      "region": "PK"
-    },
-    {
-      "id": "t0uuQOvOFFA",
-      "title": "Sajan Tumse Pyar - Video Song | Udit Narayan, Alka Yagnik | Salman Khan, Sushmita Sen, Arshad Warsi",
-      "channelTitle": "T-Series Bollywood Classics",
-      "thumbnail": "https://i.ytimg.com/vi/t0uuQOvOFFA/hqdefault.jpg",
-      "duration": "PT3M58S",
-      "publishedAt": "2026-07-16T09:59:07Z",
+      "id": "MucyfTEc47I",
+      "title": "NAA PUSHDE - Fukra Insaan & Avneet Kaur | Saivi Fareed | Anshul Garg",
+      "channelTitle": "Desi Music Factory",
+      "thumbnail": "https://i.ytimg.com/vi/MucyfTEc47I/hqdefault.jpg",
+      "duration": "PT3M17S",
+      "publishedAt": "2026-07-10T05:30:02Z",
       "region": "PK"
     },
     {
@@ -2828,6 +2819,15 @@
       "thumbnail": "https://i.ytimg.com/vi/35v9aq7tGHo/hqdefault.jpg",
       "duration": "PT5M13S",
       "publishedAt": "2026-07-27T11:00:39Z",
+      "region": "PK"
+    },
+    {
+      "id": "t0uuQOvOFFA",
+      "title": "Sajan Tumse Pyar - Video Song | Udit Narayan, Alka Yagnik | Salman Khan, Sushmita Sen, Arshad Warsi",
+      "channelTitle": "T-Series Bollywood Classics",
+      "thumbnail": "https://i.ytimg.com/vi/t0uuQOvOFFA/hqdefault.jpg",
+      "duration": "PT3M58S",
+      "publishedAt": "2026-07-16T09:59:07Z",
       "region": "PK"
     },
     {
@@ -2867,21 +2867,21 @@
       "region": "PK"
     },
     {
-      "id": "_1X-Kz0YTF4",
-      "title": "Tere Ishq Mein Naachenge | Aamir Khan | Karisma Kapoor | Kumar Sanu | 90s Hindi Sad Song",
-      "channelTitle": "Chill Station",
-      "thumbnail": "https://i.ytimg.com/vi/_1X-Kz0YTF4/hqdefault.jpg",
-      "duration": "PT6M50S",
-      "publishedAt": "2026-07-21T09:30:28Z",
-      "region": "PK"
-    },
-    {
       "id": "CxN85kBZiI8",
       "title": "Madhosh | Toxic (Hindi) | Rocking Star Yash, Tara Sutaria | Tanishk, Arslan, Faheem, Siddharth, Syed",
       "channelTitle": "Zee Music Company",
       "thumbnail": "https://i.ytimg.com/vi/CxN85kBZiI8/hqdefault.jpg",
       "duration": "PT3M15S",
       "publishedAt": "2026-07-21T06:03:04Z",
+      "region": "PK"
+    },
+    {
+      "id": "_1X-Kz0YTF4",
+      "title": "Tere Ishq Mein Naachenge | Aamir Khan | Karisma Kapoor | Kumar Sanu | 90s Hindi Sad Song",
+      "channelTitle": "Chill Station",
+      "thumbnail": "https://i.ytimg.com/vi/_1X-Kz0YTF4/hqdefault.jpg",
+      "duration": "PT6M50S",
+      "publishedAt": "2026-07-21T09:30:28Z",
       "region": "PK"
     },
     {
@@ -2907,7 +2907,7 @@
       "title": "Awarapan x Saiyaara - Mashup | Toh Phir Aao | Barbaad | Mustafa Zahid | Latest 4K Songs",
       "channelTitle": "Tanvir LUCKYY",
       "thumbnail": "https://i.ytimg.com/vi/k37j8BkWLrA/hqdefault.jpg",
-      "duration": "PT6M47S",
+      "duration": "PT3M42S",
       "publishedAt": "2026-07-23T14:43:13Z",
       "region": "BD"
     },
@@ -2984,6 +2984,15 @@
       "region": "BD"
     },
     {
+      "id": "KYiv9pnAx0Y",
+      "title": "Ik Mulaqat X Tera Mera Hai Pyaar - Mashup (Full Version) Lo-fi 2307 | Jubin Nautiyal | Latest 4k Mix",
+      "channelTitle": "Lo-fi 2307",
+      "thumbnail": "https://i.ytimg.com/vi/KYiv9pnAx0Y/hqdefault.jpg",
+      "duration": "PT5M50S",
+      "publishedAt": "2026-07-22T15:15:11Z",
+      "region": "BD"
+    },
+    {
       "id": "uKvqyPFH6k8",
       "title": "ও প্রাণ বন্ধু রে  O Pran Bondhu Re  New Bengali Folk Sad Song 2026   Sr Sharif",
       "channelTitle": "Sr Sharif",
@@ -2999,15 +3008,6 @@
       "thumbnail": "https://i.ytimg.com/vi/CxN85kBZiI8/hqdefault.jpg",
       "duration": "PT3M15S",
       "publishedAt": "2026-07-21T06:03:04Z",
-      "region": "BD"
-    },
-    {
-      "id": "KYiv9pnAx0Y",
-      "title": "Ik Mulaqat X Tera Mera Hai Pyaar - Mashup (Full Version) Lo-fi 2307 | Jubin Nautiyal | Latest 4k Mix",
-      "channelTitle": "Lo-fi 2307",
-      "thumbnail": "https://i.ytimg.com/vi/KYiv9pnAx0Y/hqdefault.jpg",
-      "duration": "PT5M50S",
-      "publishedAt": "2026-07-22T15:15:11Z",
       "region": "BD"
     },
     {
@@ -3029,21 +3029,21 @@
       "region": "BD"
     },
     {
-      "id": "OBOQOLePkak",
-      "title": "Koydiner Ei Duniyay Tor Kiser Bahaduri || কয়দিনের এই দুনিয়ায় তোর কিসের বাহাদুরি || Bangla Folk Song",
-      "channelTitle": "Folk Kotha",
-      "thumbnail": "https://i.ytimg.com/vi/OBOQOLePkak/hqdefault.jpg",
-      "duration": "PT5M12S",
-      "publishedAt": "2026-07-13T09:26:36Z",
-      "region": "BD"
-    },
-    {
       "id": "WsjLHS6Jo3o",
       "title": "First Class 8K Video | Kalank | Varun Dhawan, Alia Bhatt, Kiara A | Arijit Singh | Pritam |Amitabh B",
       "channelTitle": "Romance Rewind",
       "thumbnail": "https://i.ytimg.com/vi/WsjLHS6Jo3o/hqdefault.jpg",
       "duration": "PT5M2S",
       "publishedAt": "2026-07-26T03:30:08Z",
+      "region": "BD"
+    },
+    {
+      "id": "OBOQOLePkak",
+      "title": "Koydiner Ei Duniyay Tor Kiser Bahaduri || কয়দিনের এই দুনিয়ায় তোর কিসের বাহাদুরি || Bangla Folk Song",
+      "channelTitle": "Folk Kotha",
+      "thumbnail": "https://i.ytimg.com/vi/OBOQOLePkak/hqdefault.jpg",
+      "duration": "PT5M12S",
+      "publishedAt": "2026-07-13T09:26:36Z",
       "region": "BD"
     },
     {
@@ -3074,12 +3074,21 @@
       "region": "NG"
     },
     {
-      "id": "cgz0enRY5LM",
-      "title": "BNXN, Asake - Eja Meja (Visualizer)",
-      "channelTitle": "BNXNVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/cgz0enRY5LM/hqdefault.jpg",
-      "duration": "PT2M41S",
-      "publishedAt": "2026-07-29T15:00:04Z",
+      "id": "mkwzDRN6Yxk",
+      "title": "B4 B4",
+      "channelTitle": "Davido - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/mkwzDRN6Yxk/hqdefault.jpg",
+      "duration": "PT2M47S",
+      "publishedAt": "2026-07-24T14:42:19Z",
+      "region": "NG"
+    },
+    {
+      "id": "kCYL8kjNfDA",
+      "title": "GTA",
+      "channelTitle": "Seyi Vibez - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/kCYL8kjNfDA/hqdefault.jpg",
+      "duration": "PT2M36S",
+      "publishedAt": "2026-07-30T23:04:50Z",
       "region": "NG"
     },
     {
@@ -3110,6 +3119,33 @@
       "region": "NG"
     },
     {
+      "id": "jmv9tvefRGs",
+      "title": "Na Afa Nna (Freestyle)",
+      "channelTitle": "Phyno - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/jmv9tvefRGs/hqdefault.jpg",
+      "duration": "PT2M30S",
+      "publishedAt": "2026-07-28T10:00:18Z",
+      "region": "NG"
+    },
+    {
+      "id": "aPdzHTZffpQ",
+      "title": "Amazing Grace",
+      "channelTitle": "Davido - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/aPdzHTZffpQ/hqdefault.jpg",
+      "duration": "PT2M32S",
+      "publishedAt": "2026-07-24T14:42:19Z",
+      "region": "NG"
+    },
+    {
+      "id": "LBUJDoBbwYk",
+      "title": "On The Road",
+      "channelTitle": "Davido - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/LBUJDoBbwYk/hqdefault.jpg",
+      "duration": "PT2M17S",
+      "publishedAt": "2026-07-24T14:42:19Z",
+      "region": "NG"
+    },
+    {
       "id": "5ktb3db6FSA",
       "title": "BB Lifestyle",
       "channelTitle": "MAVO - Topic",
@@ -3128,12 +3164,12 @@
       "region": "NG"
     },
     {
-      "id": "jmv9tvefRGs",
-      "title": "Na Afa Nna (Freestyle)",
-      "channelTitle": "Phyno - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/jmv9tvefRGs/hqdefault.jpg",
-      "duration": "PT2M30S",
-      "publishedAt": "2026-07-28T10:00:18Z",
+      "id": "aYcipnyThfI",
+      "title": "Ako (Live in London)",
+      "channelTitle": "Asake - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/aYcipnyThfI/hqdefault.jpg",
+      "duration": "PT4M5S",
+      "publishedAt": "2026-07-23T23:01:20Z",
       "region": "NG"
     },
     {
@@ -3146,15 +3182,6 @@
       "region": "NG"
     },
     {
-      "id": "w2If2-bIwZw",
-      "title": "Business",
-      "channelTitle": "MAVO - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/w2If2-bIwZw/hqdefault.jpg",
-      "duration": "PT2M14S",
-      "publishedAt": "2026-07-23T10:04:10Z",
-      "region": "NG"
-    },
-    {
       "id": "MXM-si6fBvs",
       "title": "ADML",
       "channelTitle": "Greatman Takit - Topic",
@@ -3164,12 +3191,12 @@
       "region": "NG"
     },
     {
-      "id": "AdAB6oyq_II",
-      "title": "Davido, NO11 - Gimme Dat Ting (Official Video)",
-      "channelTitle": "DavidoVEVO",
-      "thumbnail": "https://i.ytimg.com/vi/AdAB6oyq_II/hqdefault.jpg",
-      "duration": "PT4M7S",
-      "publishedAt": "2026-07-17T16:00:06Z",
+      "id": "w2If2-bIwZw",
+      "title": "Business",
+      "channelTitle": "MAVO - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/w2If2-bIwZw/hqdefault.jpg",
+      "duration": "PT2M14S",
+      "publishedAt": "2026-07-23T10:04:10Z",
       "region": "NG"
     },
     {
@@ -3182,21 +3209,21 @@
       "region": "NG"
     },
     {
+      "id": "ApWkokg2bMw",
+      "title": "Zlatan - Bebe ft. Victony (Visualizer)",
+      "channelTitle": "Zlatan",
+      "thumbnail": "https://i.ytimg.com/vi/ApWkokg2bMw/hqdefault.jpg",
+      "duration": "PT2M29S",
+      "publishedAt": "2026-07-28T16:00:21Z",
+      "region": "NG"
+    },
+    {
       "id": "BJIK6mKz900",
       "title": "Falz - Na Je (Official Music Video)",
       "channelTitle": "Falz",
       "thumbnail": "https://i.ytimg.com/vi/BJIK6mKz900/hqdefault.jpg",
       "duration": "PT2M41S",
       "publishedAt": "2026-07-23T17:00:06Z",
-      "region": "NG"
-    },
-    {
-      "id": "NFHPE83Aw-c",
-      "title": "SHON PE (Count Your Money)",
-      "channelTitle": "Tml Vibez - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/NFHPE83Aw-c/hqdefault.jpg",
-      "duration": "PT2M39S",
-      "publishedAt": "2026-07-22T10:04:35Z",
       "region": "NG"
     },
     {
@@ -3209,39 +3236,12 @@
       "region": "NG"
     },
     {
-      "id": "-e7fjBY0S2g",
-      "title": "Pilé",
-      "channelTitle": "Loud Urban Choir - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/-e7fjBY0S2g/hqdefault.jpg",
-      "duration": "PT1M45S",
-      "publishedAt": "2026-07-19T23:00:14Z",
-      "region": "NG"
-    },
-    {
-      "id": "ELkyDvO-j6Q",
-      "title": "treat u right",
-      "channelTitle": "FOLA - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/ELkyDvO-j6Q/hqdefault.jpg",
-      "duration": "PT2M58S",
-      "publishedAt": "2026-07-02T22:11:35Z",
-      "region": "NG"
-    },
-    {
-      "id": "UO0c8MPOTaA",
-      "title": "YOU ARE GOOD",
-      "channelTitle": "Greatman Takit - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/UO0c8MPOTaA/hqdefault.jpg",
-      "duration": "PT5M7S",
-      "publishedAt": "2026-07-23T10:03:17Z",
-      "region": "NG"
-    },
-    {
-      "id": "ApWkokg2bMw",
-      "title": "Zlatan - Bebe ft. Victony (Visualizer)",
-      "channelTitle": "Zlatan",
-      "thumbnail": "https://i.ytimg.com/vi/ApWkokg2bMw/hqdefault.jpg",
-      "duration": "PT2M29S",
-      "publishedAt": "2026-07-28T16:00:21Z",
+      "id": "NFHPE83Aw-c",
+      "title": "SHON PE (Count Your Money)",
+      "channelTitle": "Tml Vibez - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/NFHPE83Aw-c/hqdefault.jpg",
+      "duration": "PT2M39S",
+      "publishedAt": "2026-07-22T10:04:35Z",
       "region": "NG"
     },
     {
@@ -3292,7 +3292,7 @@
     {
       "id": "wcwkNevkhJo",
       "title": "Uyajola lo",
-      "channelTitle": "Maganga Thishela - Topic",
+      "channelTitle": " - Topic",
       "thumbnail": "https://i.ytimg.com/vi/wcwkNevkhJo/hqdefault.jpg",
       "duration": "PT3M19S",
       "publishedAt": "2026-07-24T11:31:38Z",
@@ -3326,15 +3326,6 @@
       "region": "ZA"
     },
     {
-      "id": "f7rBcCN56RA",
-      "title": "Cardinal X25 - Hamba Uyofa",
-      "channelTitle": "CardinalX25VEVO",
-      "thumbnail": "https://i.ytimg.com/vi/f7rBcCN56RA/hqdefault.jpg",
-      "duration": "PT4M14S",
-      "publishedAt": "2026-07-17T13:50:08Z",
-      "region": "ZA"
-    },
-    {
       "id": "4oiyx9wcT2k",
       "title": "Cardinal X25 - Siyakhetha Uthando (Official Music Video)",
       "channelTitle": "CardinalX25VEVO",
@@ -3344,12 +3335,12 @@
       "region": "ZA"
     },
     {
-      "id": "qjvxO0nofXQ",
-      "title": "FAIRYTALE",
-      "channelTitle": "Tyla - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/qjvxO0nofXQ/hqdefault.jpg",
-      "duration": "PT3M29S",
-      "publishedAt": "2026-07-16T19:52:33Z",
+      "id": "f7rBcCN56RA",
+      "title": "Cardinal X25 - Hamba Uyofa",
+      "channelTitle": "CardinalX25VEVO",
+      "thumbnail": "https://i.ytimg.com/vi/f7rBcCN56RA/hqdefault.jpg",
+      "duration": "PT4M14S",
+      "publishedAt": "2026-07-17T13:50:08Z",
       "region": "ZA"
     },
     {
@@ -3362,21 +3353,12 @@
       "region": "ZA"
     },
     {
-      "id": "Lv8v2x8qmaM",
-      "title": "Sam Deep, Aidah, Njelic feat. Thatohatsi - Rapela (Visualizer)",
-      "channelTitle": "Sam Deep",
-      "thumbnail": "https://i.ytimg.com/vi/Lv8v2x8qmaM/hqdefault.jpg",
-      "duration": "PT7M21S",
-      "publishedAt": "2026-07-16T22:00:05Z",
-      "region": "ZA"
-    },
-    {
-      "id": "m7k9UMcHbr0",
-      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
-      "channelTitle": "HYBE LABELS",
-      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
-      "duration": "PT3M11S",
-      "publishedAt": "2026-07-24T03:59:06Z",
+      "id": "qjvxO0nofXQ",
+      "title": "FAIRYTALE",
+      "channelTitle": "Tyla - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/qjvxO0nofXQ/hqdefault.jpg",
+      "duration": "PT3M29S",
+      "publishedAt": "2026-07-16T19:52:33Z",
       "region": "ZA"
     },
     {
@@ -3391,19 +3373,28 @@
     {
       "id": "c_Yn7izhbeo",
       "title": "imthetho yabazali",
-      "channelTitle": "Maganga Thishela - Topic",
+      "channelTitle": " - Topic",
       "thumbnail": "https://i.ytimg.com/vi/c_Yn7izhbeo/hqdefault.jpg",
       "duration": "PT3M36S",
       "publishedAt": "2026-07-24T11:31:38Z",
       "region": "ZA"
     },
     {
-      "id": "1MvZSI-zhOk",
-      "title": "Danya Devs ft. Mzukulu - Selfish prod by Kinglee Beats (Lyric Video)",
-      "channelTitle": "Danya Devs",
-      "thumbnail": "https://i.ytimg.com/vi/1MvZSI-zhOk/hqdefault.jpg",
-      "duration": "PT5M23S",
-      "publishedAt": "2026-07-23T21:54:27Z",
+      "id": "Lv8v2x8qmaM",
+      "title": "Sam Deep, Aidah, Njelic feat. Thatohatsi - Rapela (Visualizer)",
+      "channelTitle": "Sam Deep",
+      "thumbnail": "https://i.ytimg.com/vi/Lv8v2x8qmaM/hqdefault.jpg",
+      "duration": "PT7M21S",
+      "publishedAt": "2026-07-16T22:00:05Z",
+      "region": "ZA"
+    },
+    {
+      "id": "15QB2_E6qUM",
+      "title": "Papta",
+      "channelTitle": "Kabza De Small - Topic",
+      "thumbnail": "https://i.ytimg.com/vi/15QB2_E6qUM/hqdefault.jpg",
+      "duration": "PT7M31S",
+      "publishedAt": "2026-07-30T22:00:25Z",
       "region": "ZA"
     },
     {
@@ -3416,12 +3407,21 @@
       "region": "ZA"
     },
     {
-      "id": "dew3ywKddTQ",
-      "title": "Lekunye",
-      "channelTitle": "Original_sedi - Topic",
-      "thumbnail": "https://i.ytimg.com/vi/dew3ywKddTQ/hqdefault.jpg",
-      "duration": "PT4M33S",
-      "publishedAt": "2026-07-02T10:04:58Z",
+      "id": "m7k9UMcHbr0",
+      "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+      "channelTitle": "HYBE LABELS",
+      "thumbnail": "https://i.ytimg.com/vi/m7k9UMcHbr0/hqdefault.jpg",
+      "duration": "PT3M11S",
+      "publishedAt": "2026-07-24T03:59:06Z",
+      "region": "ZA"
+    },
+    {
+      "id": "1MvZSI-zhOk",
+      "title": "Danya Devs ft. Mzukulu - Selfish prod by Kinglee Beats (Lyric Video)",
+      "channelTitle": "Danya Devs",
+      "thumbnail": "https://i.ytimg.com/vi/1MvZSI-zhOk/hqdefault.jpg",
+      "duration": "PT5M23S",
+      "publishedAt": "2026-07-23T21:54:27Z",
       "region": "ZA"
     },
     {
@@ -3479,21 +3479,12 @@
       "region": "SA"
     },
     {
-      "id": "Y56X_h6-lgM",
-      "title": "Amr Diab - Eta'akhar Etabna (Official Lyric Video) | (كلمات) عمرو دياب - اتأخر عتابنا",
+      "id": "u_G1NCwQZ4E",
+      "title": "Amr Diab & Orange - Lola El Banat (Official Music Video) - عمرو دياب  واورنچ - لولا البنات",
       "channelTitle": "Amr Diab",
-      "thumbnail": "https://i.ytimg.com/vi/Y56X_h6-lgM/hqdefault.jpg",
-      "duration": "PT3M45S",
-      "publishedAt": "2026-07-22T14:01:09Z",
-      "region": "SA"
-    },
-    {
-      "id": "vDNqR_fefWc",
-      "title": "Tamer Ashour - Merayt El Hob | تامر عاشور - مراية الحب",
-      "channelTitle": "Tamer Ashour",
-      "thumbnail": "https://i.ytimg.com/vi/vDNqR_fefWc/hqdefault.jpg",
-      "duration": "PT4M3S",
-      "publishedAt": "2026-07-20T16:00:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/u_G1NCwQZ4E/hqdefault.jpg",
+      "duration": "PT3M49S",
+      "publishedAt": "2026-07-30T19:53:16Z",
       "region": "SA"
     },
     {
@@ -3502,6 +3493,15 @@
       "channelTitle": "Tamer Ashour",
       "thumbnail": "https://i.ytimg.com/vi/gfYIeQAnYn8/hqdefault.jpg",
       "duration": "PT3M44S",
+      "publishedAt": "2026-07-20T16:00:06Z",
+      "region": "SA"
+    },
+    {
+      "id": "vDNqR_fefWc",
+      "title": "Tamer Ashour - Merayt El Hob | تامر عاشور - مراية الحب",
+      "channelTitle": "Tamer Ashour",
+      "thumbnail": "https://i.ytimg.com/vi/vDNqR_fefWc/hqdefault.jpg",
+      "duration": "PT4M3S",
       "publishedAt": "2026-07-20T16:00:06Z",
       "region": "SA"
     },
@@ -3524,6 +3524,24 @@
       "region": "SA"
     },
     {
+      "id": "5-ZGM1K2NyQ",
+      "title": "Angham - Boaadak Wagaa | أنغام - بُعدك وجع",
+      "channelTitle": "Angham",
+      "thumbnail": "https://i.ytimg.com/vi/5-ZGM1K2NyQ/hqdefault.jpg",
+      "duration": "PT4M8S",
+      "publishedAt": "2026-07-30T15:05:07Z",
+      "region": "SA"
+    },
+    {
+      "id": "Ui-sXcSNCxM",
+      "title": "Adam Zain Eldin - Ah Ya Helou (Official Lyric Video) | ادم زين الدين - اه يا حلو",
+      "channelTitle": "Music Hup",
+      "thumbnail": "https://i.ytimg.com/vi/Ui-sXcSNCxM/hqdefault.jpg",
+      "duration": "PT5M23S",
+      "publishedAt": "2026-07-27T00:42:20Z",
+      "region": "SA"
+    },
+    {
       "id": "lR2peExIgjo",
       "title": "Lyrical لريكل | R1 أر ون (official music audio)",
       "channelTitle": "Lyrical لريكل",
@@ -3542,21 +3560,21 @@
       "region": "SA"
     },
     {
-      "id": "Ui-sXcSNCxM",
-      "title": "Adam Zain Eldin - Ah Ya Helou (Official Lyric Video) | ادم زين الدين - اه يا حلو",
-      "channelTitle": "Music Hup",
-      "thumbnail": "https://i.ytimg.com/vi/Ui-sXcSNCxM/hqdefault.jpg",
-      "duration": "PT5M23S",
-      "publishedAt": "2026-07-27T00:42:20Z",
+      "id": "9oU_Xm4-rdw",
+      "title": "Ahmed Saad & Judy - Keda Keda | Official Music Video - 2026 | أحمد سعد و جودي - كدا كدا",
+      "channelTitle": "Ahmed Saad",
+      "thumbnail": "https://i.ytimg.com/vi/9oU_Xm4-rdw/hqdefault.jpg",
+      "duration": "PT4M15S",
+      "publishedAt": "2026-07-29T15:00:37Z",
       "region": "SA"
     },
     {
-      "id": "k37j8BkWLrA",
-      "title": "Awarapan x Saiyaara - Mashup | Toh Phir Aao | Barbaad | Mustafa Zahid | Latest 4K Songs",
-      "channelTitle": "Tanvir LUCKYY",
-      "thumbnail": "https://i.ytimg.com/vi/k37j8BkWLrA/hqdefault.jpg",
-      "duration": "PT6M47S",
-      "publishedAt": "2026-07-23T14:43:13Z",
+      "id": "tg0OpfYK0fE",
+      "title": "Angham - Mehaserni  | أنغام - محاصرني",
+      "channelTitle": "Angham",
+      "thumbnail": "https://i.ytimg.com/vi/tg0OpfYK0fE/hqdefault.jpg",
+      "duration": "PT3M46S",
+      "publishedAt": "2026-07-30T15:10:16Z",
       "region": "SA"
     },
     {
@@ -3569,39 +3587,21 @@
       "region": "SA"
     },
     {
-      "id": "9oU_Xm4-rdw",
-      "title": "Ahmed Saad & Judy - Keda Keda | Official Music Video - 2026 | أحمد سعد و جودي - كدا كدا",
-      "channelTitle": "Ahmed Saad",
-      "thumbnail": "https://i.ytimg.com/vi/9oU_Xm4-rdw/hqdefault.jpg",
-      "duration": "PT4M15S",
-      "publishedAt": "2026-07-29T15:00:37Z",
+      "id": "k37j8BkWLrA",
+      "title": "Awarapan x Saiyaara - Mashup | Toh Phir Aao | Barbaad | Mustafa Zahid | Latest 4K Songs",
+      "channelTitle": "Tanvir LUCKYY",
+      "thumbnail": "https://i.ytimg.com/vi/k37j8BkWLrA/hqdefault.jpg",
+      "duration": "PT3M42S",
+      "publishedAt": "2026-07-23T14:43:13Z",
       "region": "SA"
     },
     {
-      "id": "kH6-iTK5aUk",
-      "title": "Andualem Gosa | Waa’ee Jireenya koo!| New Oromo Music 2026",
-      "channelTitle": "Andualem Gosa",
-      "thumbnail": "https://i.ytimg.com/vi/kH6-iTK5aUk/hqdefault.jpg",
-      "duration": "PT5M45S",
-      "publishedAt": "2026-07-24T15:00:06Z",
-      "region": "SA"
-    },
-    {
-      "id": "5-ZGM1K2NyQ",
-      "title": "Angham - Boaadak Wagaa | أنغام - بُعدك وجع",
+      "id": "9jhiQjoErRI",
+      "title": "Angham - De Rohy | أنغام - دي روحي",
       "channelTitle": "Angham",
-      "thumbnail": "https://i.ytimg.com/vi/5-ZGM1K2NyQ/hqdefault.jpg",
-      "duration": "PT4M8S",
-      "publishedAt": "2026-07-30T15:05:07Z",
-      "region": "SA"
-    },
-    {
-      "id": "tg0OpfYK0fE",
-      "title": "Angham - Mehaserni  | أنغام - محاصرني",
-      "channelTitle": "Angham",
-      "thumbnail": "https://i.ytimg.com/vi/tg0OpfYK0fE/hqdefault.jpg",
-      "duration": "PT3M46S",
-      "publishedAt": "2026-07-30T15:10:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/9jhiQjoErRI/hqdefault.jpg",
+      "duration": "PT3M37S",
+      "publishedAt": "2026-07-30T15:00:06Z",
       "region": "SA"
     }
   ]
